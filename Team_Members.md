@@ -7,7 +7,7 @@ title: Team Members
 <br/>
 
 **<img src="/images/anthony.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Prof. Dr. Anthony Clève (UNamur)**
-- Homepage
+- [Homepage](https://directory.unamur.be/staff/acleve?_LOCALE_=en)
 - [Publications (Google Scholar)](https://scholar.google.com/citations?user=LM0e_fcAAAAJ&hl=en&oi=ao)
 
 <br/>
@@ -15,7 +15,7 @@ title: Team Members
 <br/>
 
 **<img src="/images/etienne.jpeg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Prof. Dr. Etienne Rivière (UCLouvain), Coordinator**
-- Homepage
+- [Homepage](https://cloudlargescale-uclouvain.github.io/Etienne_Riviere)
 - [Publications (Google Scholar)](https://scholar.google.com/citations?user=DacqieAAAAAJ&hl=en&oi=ao)
 
 <br/>
