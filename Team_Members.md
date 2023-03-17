@@ -34,7 +34,7 @@ title: Team Members
 <br/>
 <br/>
 
-### Post-docs
+### Post-doc Researcher
 
 <br/>
 
