@@ -66,7 +66,6 @@ title: Team Members
 <br/>
 <br/>
 <br/>
-<br/>
 
 **<img src="/images/yinan.png" height="15%" width="15%" style="float: left; margin: 0px 50px;">Yinan Cao (UCLouvain)**
 - Ph.D. student, focusing on infrastructure management and adaptation in the continuum
