@@ -4,17 +4,10 @@ title: Funding
 ---
 
 <p class="message">
-  Have no info, need to be modified when getting it.
+  Have no info, need to be modified when getting it. Found sth on Prof. Etienne's project website
 </p>
 
-### [UCLouvain](https://uclouvain.be/fr/index.html)
+The project RAINDROP is jointly funded by UCLouvain and UNamur as part of the ARC (Actions de Recherche Concertées)
 
-![UCLouvainLogo](/images/logo_UCLouvain_format_jpg_quadri.jpg)
-
-### UNamur
-
-![UNamurLogo](/images/logo_UNamur.png)
-
-### Region Wallonia
-
-![UCLouvainLogo](/images/wallonie_v.png)
+<img src="/images/logo_UCLouvain_small.jpg" height="40%" width="40%" style="float: left; margin: 0px 50px;">
+<img src="/images/logo_UNamur_small.png" height="40%" width="40%" style="float: left; margin: 0px 50px;">
