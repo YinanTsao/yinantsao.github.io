@@ -4,7 +4,7 @@
  <title>Project RAINDROP</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-03-20T10:10:17+00:00</updated>
+ <updated>2023-03-20T10:46:07+00:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Yinan CAO</name>
@@ -21,13 +21,20 @@
 
 &lt;h4&gt;Project started in Oct 2022&lt;/h4&gt;
 
-&lt;p&gt;&lt;a&gt;&lt;img src=&quot;/images/raindrop-logo.png&quot; height=&quot;40%&quot; width=&quot;40%&quot; style=&quot;float: left;&quot; /&gt;&lt;/a&gt;The RAINDROP project brings together three complementary teams from UNamur and UCLouvain to address in a unique way the challenge of building, deploying, and operating applications on upcoming cloud infrastructures formed of a continuum of core (data centers) and edge resources. It targets the demanding class of collaborative and latency-sensitive applications for which the use of edge resources close to users should allow interactions and collaborations with greatly reduced latencies and increased responsiveness, enabling new classes of usages such as collaborative work in near-real-time, virtual spaces, or smart environments.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&quot;/images/raindrop-logo.png&quot; height=&quot;40%&quot; width=&quot;40%&quot; style=&quot;float: left;&quot; /&gt;&lt;/a&gt;The RAINDROP project brings together three complementary teams from UNamur and UCLouvain to address in a unique way the challenge of building, deploying, and operating applications on upcoming cloud infrastructures formed of a continuum of core (data centers) and edge resources. It targets the demanding class of collaborative and latency-sensitive applications for which the use of edge resources close to users should allow interactions and collaborations with greatly reduced latencies and increased responsiveness, enabling new classes of usages such as collaborative work in near-real-time, virtual spaces, or smart environments. More detailed information about project RAINDROP is &lt;a href=&quot;/Project_Description&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2&gt;
-  Our papers
-&lt;/h2&gt;
+  &lt;a href=&quot;/Published_Papers&quot;&gt;Our Highlighted Papers&lt;/a&gt;
+  &lt;/h2&gt;
+
+&lt;p&gt;Paper No.1
+  &lt;br /&gt;
+  Paper No.2&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2&gt;Funding&lt;/h2&gt;
 
