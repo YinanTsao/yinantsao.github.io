@@ -4,7 +4,7 @@
  <title>Project RAINDROP</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-03-20T10:46:07+00:00</updated>
+ <updated>2023-03-20T16:21:08+00:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Yinan CAO</name>
@@ -21,17 +21,17 @@
 
 &lt;h4&gt;Project started in Oct 2022&lt;/h4&gt;
 
-&lt;p&gt;&lt;a&gt;&lt;img src=&quot;/images/raindrop-logo.png&quot; height=&quot;40%&quot; width=&quot;40%&quot; style=&quot;float: left;&quot; /&gt;&lt;/a&gt;The RAINDROP project brings together three complementary teams from UNamur and UCLouvain to address in a unique way the challenge of building, deploying, and operating applications on upcoming cloud infrastructures formed of a continuum of core (data centers) and edge resources. It targets the demanding class of collaborative and latency-sensitive applications for which the use of edge resources close to users should allow interactions and collaborations with greatly reduced latencies and increased responsiveness, enabling new classes of usages such as collaborative work in near-real-time, virtual spaces, or smart environments. More detailed information about project RAINDROP is &lt;a href=&quot;/Project_Description&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;img src=&quot;/images/raindrop-logo.png&quot; height=&quot;40%&quot; width=&quot;40%&quot; style=&quot;float: left;&quot; /&gt;&lt;/a&gt;The RAINDROP project brings together three complementary teams from UNamur and UCLouvain to address in a unique way the challenge of building, deploying, and operating applications on upcoming cloud infrastructures formed of a continuum of core (data centers) and edge resources. It targets the demanding class of collaborative and latency-sensitive applications for which the use of edge resources close to users should allow interactions and collaborations with greatly reduced latencies and increased responsiveness, enabling new classes of usages such as collaborative work in near-real-time, virtual spaces, or smart environments. More detailed information about project RAINDROP lies &lt;a href=&quot;/Project_Description&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2&gt;
-  &lt;a href=&quot;/Published_Papers&quot;&gt;Our Highlighted Papers&lt;/a&gt;
-  &lt;/h2&gt;
+&lt;h2&gt;Highlighted Papers&lt;/h2&gt;
 
 &lt;p&gt;Paper No.1
   &lt;br /&gt;
   Paper No.2&lt;/p&gt;
+
+&lt;p&gt;Check all of our papers &lt;a href=&quot;/Published_Papers&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
@@ -39,15 +39,16 @@
 &lt;h2&gt;Funding&lt;/h2&gt;
 
 &lt;div class=&quot;container&quot;&gt;
-  The project RAINDROP is jointly funded by UCLouvain and UNamur as part of the ARC (Actions de Recherche Concertées). It involves the &lt;a href=&quot;https://cloudlargescale-uclouvain.github.io/&quot;&gt;Cloud and Large Scale Computing&lt;/a&gt; group, the &lt;a href=&quot;https://secperf-uclouvain.bitbucket.io/&quot;&gt;Security and Performance of Networked Systems&lt;/a&gt; group at UCLouvain (PI: Pr. Ramin Sadre) and the &lt;a href=&quot;https://www.unamur.be/en/precise/&quot;&gt;Research Center on Information Systems Engineering (PReCISE)&lt;/a&gt; group at UNamur (PI: Pr. Anthony Clève).
+  The project RAINDROP is jointly funded by UCLouvain and UNamur as part of the ARC (Actions de Recherche Concertées). It involves the &lt;a href=&quot;https://cloudlargescale-uclouvain.github.io/&quot;&gt;Cloud and Large Scale Computing&lt;/a&gt; group (PI: Pr. Etienne Rivière) and the &lt;a href=&quot;https://secperf-uclouvain.bitbucket.io/&quot;&gt;Security and Performance of Networked Systems&lt;/a&gt; group (PI: Pr. Ramin Sadre) at UCLouvain, the &lt;a href=&quot;https://www.unamur.be/en/precise/&quot;&gt;Research Center on Information Systems Engineering (PReCISE)&lt;/a&gt; group (PI: Pr. Anthony Clève) at UNamur.
+
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;div&gt;
-  &lt;img src=&quot;/images/logo_UCLouvain_small.jpg&quot; height=&quot;20%&quot; width=&quot;20%&quot; style=&quot;float: left; margin: 50px 40px; vertical-align: top&quot; /&gt;
-  &lt;img src=&quot;/images/logo_UNamur_small.png&quot; height=&quot;20%&quot; width=&quot;20%&quot; style=&quot;float: left; margin: 50px 50px; vertical-align: top&quot; /&gt;
-  &lt;img src=&quot;/images/logo_fwb.jpg&quot; height=&quot;20%&quot; width=&quot;20%&quot; style=&quot;float: left; margin: 50px 50px; vertical-align: top&quot; /&gt;
+&lt;div class=&quot;container&quot;&gt;
+  &lt;a href=&quot;https://uclouvain.be/fr/index.html&quot;&gt;&lt;img src=&quot;/images/logo_UCLouvain_small.jpg&quot; height=&quot;20%&quot; width=&quot;20%&quot; style=&quot;float: left; margin: 55px 55px; vertical-align: baseline&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;https://www.unamur.be/&quot;&gt;&lt;img src=&quot;/images/logo_UNamur_small.png&quot; height=&quot;20%&quot; width=&quot;20%&quot; style=&quot;float: left; margin: 50px 50px; vertical-align: baseline&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;https://www.federation-wallonie-bruxelles.be/&quot;&gt;&lt;img src=&quot;/images/logo_fwb.jpg&quot; height=&quot;20%&quot; width=&quot;20%&quot; style=&quot;float: left; margin: 50px 50px; vertical-align: baseline&quot; /&gt;&lt;/a&gt;
 &lt;/div&gt;
 
 &lt;p&gt;&lt;br /&gt;
