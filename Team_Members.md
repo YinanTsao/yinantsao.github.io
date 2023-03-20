@@ -36,7 +36,7 @@ title: Team Members
 <br/>
 
 **<img src="/images/loup.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Loup Meurice (UNamur)**
-<h4>Working on software evolution aspects.</h4>
+<h4>Post-doc researcher, working on software evolution aspects.</h4>
 <br/>
 - [Homepage](https://loupmeurice.github.io/)
 - [Publications (Google Scholar)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Loup+Meurice&btnG=)
