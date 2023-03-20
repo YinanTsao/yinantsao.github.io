@@ -5,11 +5,13 @@
 <!-- Toggleable sidebar -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-item">
+    <a><img src="/images/logo_rd.png" height="80%" width="80%"></a>
     <p>{{ site.description }}</p>
   </div>
+  
 
   <nav class="sidebar-nav">
-    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Project Description</a>
+    <a class="sidebar-nav-item{% if page.title == 'Home' %} active{% endif %}" href="{{ '/' | absolute_url }}">Home</a>
 
     {% comment %}
       The code below dynamically generates a sidebar nav of pages with
