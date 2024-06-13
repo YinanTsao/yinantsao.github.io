@@ -3,10 +3,11 @@ layout: default
 title: Home
 ---
 
+<h1>News</h1>
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     {{ post.content }}
-  </div>
+  </div><br/>
   {% endfor %}
 </div>

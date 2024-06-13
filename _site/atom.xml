@@ -4,7 +4,7 @@
  <title>Project RAINDROP</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-03-20T16:21:08+00:00</updated>
+ <updated>2024-06-13T09:32:37+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Yinan CAO</name>
@@ -13,46 +13,70 @@
 
  
  <entry>
-   <title>Project RAINDROP</title>
-   <link href="http://localhost:4000/2022/10/01/Home/"/>
-   <updated>2022-10-01T00:00:00+00:00</updated>
-   <id>http://localhost:4000/2022/10/01/Home</id>
-   <content type="html">&lt;h1&gt;Cross-stack Adaptation for the Edgification of Microservices Applications (RAINDROP)&lt;/h1&gt;
+   <title>Middleware 2023</title>
+   <link href="http://localhost:4000/2023/12/11/Middleware2023/"/>
+   <updated>2023-12-11T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2023/12/11/Middleware2023</id>
+   <content type="html">&lt;h2&gt;Carole and Yinan presented their works at Middleware 2023 in Bologna&lt;/h2&gt;
 
-&lt;h4&gt;Project started in Oct 2022&lt;/h4&gt;
+&lt;p&gt;On December 12, 2023, Carole and Yinan presented their works at the &lt;a href=&quot;https://middleware-conf.github.io/2023/&quot; target=&quot;_blank&quot;&gt;2023 International Middleware Conference in Bologna (Italy)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;&lt;a&gt;&lt;img src=&quot;/images/raindrop-logo.png&quot; height=&quot;40%&quot; width=&quot;40%&quot; style=&quot;float: left;&quot; /&gt;&lt;/a&gt;The RAINDROP project brings together three complementary teams from UNamur and UCLouvain to address in a unique way the challenge of building, deploying, and operating applications on upcoming cloud infrastructures formed of a continuum of core (data centers) and edge resources. It targets the demanding class of collaborative and latency-sensitive applications for which the use of edge resources close to users should allow interactions and collaborations with greatly reduced latencies and increased responsiveness, enabling new classes of usages such as collaborative work in near-real-time, virtual spaces, or smart environments. More detailed information about project RAINDROP lies &lt;a href=&quot;/Project_Description&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/Middleware2023-1.png&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;
+&lt;img src=&quot;/images/Middleware2023-2.jpg&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The papers presented are &lt;a href=&quot;https://dl.acm.org/doi/abs/10.1145/3626564.3629095&quot; target=&quot;_blank&quot;&gt;Towards the Automatic Adaptation of Stateful Microservices Applications across Edge and Cloud&lt;/a&gt; and &lt;a href=&quot;https://dl.acm.org/doi/abs/10.1145/3626564.3629091&quot; target=&quot;_blank&quot;&gt;Better Orchestration for SLO-Oriented Cross-site Microservices in Multi-tenant Cloud/Edge Continuum&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SIESTA 2023</title>
+   <link href="http://localhost:4000/2023/09/11/SIESTA2023/"/>
+   <updated>2023-09-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2023/09/11/SIESTA2023</id>
+   <content type="html">&lt;h2&gt;Maxime presented his works at SIESTA 2023 in Lugano&lt;/h2&gt;
 
-&lt;h2&gt;Highlighted Papers&lt;/h2&gt;
+&lt;p&gt;On September 11, 2023, Maxime presented his works at the &lt;a href=&quot;https://siesta.si.usi.ch/2023/&quot; target=&quot;_blank&quot;&gt;2023 International Software Engineering Summer School in Lugano (Switzerland)&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Paper No.1
-  &lt;br /&gt;
-  Paper No.2&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/SIESTA2023.jpg&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>VLDB 2023</title>
+   <link href="http://localhost:4000/2023/08/28/VLDB2023/"/>
+   <updated>2023-08-28T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2023/08/28/VLDB2023</id>
+   <content type="html">&lt;h2&gt;Maxime presented his works at VLDB 2023 in Vancouver&lt;/h2&gt;
 
-&lt;p&gt;Check all of our papers &lt;a href=&quot;/Published_Papers&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;On August 26, 2023, Maxime presented his works at the &lt;a href=&quot;https://vldb.org/2023/&quot; target=&quot;_blank&quot;&gt;2023 International Conference on Very Large Databases in Vancouver (Canada)&lt;/a&gt; in the PhD Workshop track.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/VLDB2023.jpg&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
 
-&lt;h2&gt;Funding&lt;/h2&gt;
+&lt;p&gt;The paper presented is &lt;a href=&quot;https://ceur-ws.org/Vol-3452/paper10.pdf&quot; target=&quot;_blank&quot;&gt;Automated Database Schema Evolution in Microservices&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>VLDB 2023</title>
+   <link href="http://localhost:4000/2022/12/05/JCE2022/"/>
+   <updated>2022-12-05T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2022/12/05/JCE2022</id>
+   <content type="html">&lt;h2&gt;The team at JCE 2022 in Paris&lt;/h2&gt;
 
-&lt;div class=&quot;container&quot;&gt;
-  The project RAINDROP is jointly funded by UCLouvain and UNamur as part of the ARC (Actions de Recherche Concertées). It involves the &lt;a href=&quot;https://cloudlargescale-uclouvain.github.io/&quot;&gt;Cloud and Large Scale Computing&lt;/a&gt; group (PI: Pr. Etienne Rivière) and the &lt;a href=&quot;https://secperf-uclouvain.bitbucket.io/&quot;&gt;Security and Performance of Networked Systems&lt;/a&gt; group (PI: Pr. Ramin Sadre) at UCLouvain, the &lt;a href=&quot;https://www.unamur.be/en/precise/&quot;&gt;Research Center on Information Systems Engineering (PReCISE)&lt;/a&gt; group (PI: Pr. Anthony Clève) at UNamur.
+&lt;p&gt;Doctoral students took part in the &lt;a href=&quot;https://journeescloud2022.wp.imt.fr/&quot; target=&quot;_blank&quot;&gt;Journées Cloud/Edge 2022&lt;/a&gt; in Paris (France) organized by &lt;a href=&quot;https://www.imt.fr/&quot;&gt;IMT Télécom SudParis and IMT Télécom Paris&lt;/a&gt; on December 5 and 6, 2022.&lt;/p&gt;
 
-&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;/images/JCE2022.jpg&quot; height=&quot;50%&quot; width=&quot;50%&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Kick-off</title>
+   <link href="http://localhost:4000/2022/09/04/Kick-off/"/>
+   <updated>2022-09-04T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2022/09/04/Kick-off</id>
+   <content type="html">&lt;h2&gt;Kick-off in Namur&lt;/h2&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;container&quot;&gt;
-  &lt;a href=&quot;https://uclouvain.be/fr/index.html&quot;&gt;&lt;img src=&quot;/images/logo_UCLouvain_small.jpg&quot; height=&quot;20%&quot; width=&quot;20%&quot; style=&quot;float: left; margin: 55px 55px; vertical-align: baseline&quot; /&gt;&lt;/a&gt;
-  &lt;a href=&quot;https://www.unamur.be/&quot;&gt;&lt;img src=&quot;/images/logo_UNamur_small.png&quot; height=&quot;20%&quot; width=&quot;20%&quot; style=&quot;float: left; margin: 50px 50px; vertical-align: baseline&quot; /&gt;&lt;/a&gt;
-  &lt;a href=&quot;https://www.federation-wallonie-bruxelles.be/&quot;&gt;&lt;img src=&quot;/images/logo_fwb.jpg&quot; height=&quot;20%&quot; width=&quot;20%&quot; style=&quot;float: left; margin: 50px 50px; vertical-align: baseline&quot; /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;The teams met in Namur on September 4, 2022, to launch the project.&lt;/p&gt;
 </content>
  </entry>
  
