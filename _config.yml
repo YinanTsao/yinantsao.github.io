@@ -1,7 +1,7 @@
 # Setup
 title:               Project RAINDROP
 tagline:             'from UCLouvain and UNamur'
-description:         'Research project RAINDROP on Cloud/Edge Continuum'
+description:         'Cross-stack Adaptation for the Edgification of Microservices Applications (RAINDROP) research project'
 url:                 
 baseurl:             ''
 paginate:            5
