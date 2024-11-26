@@ -32,20 +32,6 @@ title: Team
 <br/>
 <br/>
 
-### Collaborators
-
-<br/>
-
-**<img src="/images/loup.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Loup Meurice (UNamur)**
-<h4>Focusing on software evolution and data management for microservices applications.</h4>
-- <a href="https://loupmeurice.github.io/" target="_blank">Homepage</a>
-- <a href="https://scholar.google.com/citations?user=9HXN7EQAAAAJ" target="_blank">Publications (Google Scholar)</a>
-<br/>
-<br/>
-<br/>
-<br/>
-
-
 ### Professors
 <br/>
 
@@ -75,6 +61,19 @@ title: Team
 - <a href="https://perso.uclouvain.be/ramin.sadre/" target="_blank">Homepage</a>
 - <a href="https://scholar.google.de/citations?user=I8W1rLMAAAAJ" target="_blank">Publications (Google Scholar)</a>
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+### Almuni
+
+<br/>
+
+**<img src="/images/loup.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Loup Meurice (UNamur)**
+<h4>Focusing on software evolution and data management for microservices applications.</h4>
+- <a href="https://loupmeurice.github.io/" target="_blank">Homepage</a>
+- <a href="https://scholar.google.com/citations?user=9HXN7EQAAAAJ" target="_blank">Publications (Google Scholar)</a>
 <br/>
 <br/>
 <br/>
