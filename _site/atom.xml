@@ -4,7 +4,7 @@
  <title>Project RAINDROP</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2024-11-26T16:15:15+01:00</updated>
+ <updated>2025-01-13T16:19:12+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Yinan CAO</name>
@@ -13,10 +13,31 @@
 
  
  <entry>
+   <title>ICPC 2025</title>
+   <link href="http://localhost:4000/2025/01/13/ICPC2025/"/>
+   <updated>2025-01-13T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2025/01/13/ICPC2025</id>
+   <content type="html">&lt;h3&gt;A paper accepted at ICPC 2025&lt;/h3&gt;
+
+&lt;p&gt;The paper “Understanding Data Access in Microservices Applications Using Interactive Treemaps” has been accepted at &lt;a href=&quot;https://conf.researchr.org/home/icpc-2025&quot; target=&quot;_blank&quot;&gt;ICPC 2025&lt;/a&gt; (co-located with &lt;a href=&quot;https://conf.researchr.org/home/icse-2025&quot; target=&quot;_blank&quot;&gt;ICSE 2025&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;In this ERA paper, we present a new approach to support the understanding of data access in microservices architectures using interactive treemaps. This result contributes in identifying technology breakdown patterns, analyzing the impact of data concept changes, comparing system versions to track evolution or refactoring scenarios, and highlighting particular code patterns. This promising approach can be used to aid in decision-making for refactoring and evolution strategies.&lt;/p&gt;
+
+&lt;p&gt;Maxime will present this paper late April 2025 in Ottawa (Canada).&lt;/p&gt;
+
+&lt;p&gt;This paper has been co-authored with researchers of the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL research group&lt;/a&gt; at &lt;a href=&quot;_blank&quot;&gt;Università della Svizzera italiana (USI)&lt;/a&gt; in Lugano (Switzerland) where Maxime is doing a research stay. This collaboration is supported by the &lt;a href=&quot;https://www.sofinaboel.be/&quot; target=&quot;_blank&quot;&gt;SofinaBoël Fund for Education and Talent&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+    &lt;img src=&quot;/images/ICPC2025-1.jpeg&quot; height=&quot;350px&quot; /&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>Grascomp Doctoral Day 2024</title>
-   <link href="http://localhost:4000/2024/09/09/GDD2024/"/>
+   <link href="http://localhost:4000/2024/09/09/GDD2024-copy/"/>
    <updated>2024-09-09T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2024/09/09/GDD2024</id>
+   <id>http://localhost:4000/2024/09/09/GDD2024 copy</id>
    <content type="html">&lt;h3&gt;Carole and Maxime presented their research at the Grascomp Doctoral Day 2024 in Louvain-la-Neuve&lt;/h3&gt;
 
 &lt;p&gt;Carole and Maxime each presented a poster vulgarizing their research topic at &lt;a href=&quot;https://www.frs-fnrs.be/fr/financements/chercheur-doctorant/ecoles-doctorales/ecoles-doctorales-thematiques/119-fr/nos-financements/chercheur-doctorant/ecoles-doctorales/edt/221-graduate-school-in-computing-science-grascomp&quot; target=&quot;_blank&quot;&gt;Grascomp&lt;/a&gt;’s &lt;a href=&quot;https://web.umons.ac.be/infortech/event/grascomp-2024-doctoral-school-for-computing-science/&quot; target=&quot;_blank&quot;&gt;Doctoral Day 2024 that took place in Louvain-la-Neuve (Belgium)&lt;/a&gt;.&lt;/p&gt;
@@ -49,7 +70,7 @@
    <id>http://localhost:4000/2024/04/25/SofinaBoel2024</id>
    <content type="html">&lt;h3&gt;Maxime is laureate of a SofinaBoël Fund for Education and Talent 2024 fellowship&lt;/h3&gt;
 
-&lt;p&gt;Maxime has been named laureate of the prestigious &lt;a href=&quot;https://www.sofinaboel.be/&quot; target=&quot;_blank&quot;&gt;SofinaBoël Fund for Education and Talent 2024 scholarship&lt;/a&gt;. In October 2024, he will join the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL research group&lt;/a&gt; at the &lt;a href=&quot;https://si.usi.ch/&quot; target=&quot;_blank&quot;&gt;Software Institute&lt;/a&gt; of the &lt;a href=&quot;https://usi.ch/&quot; target=&quot;_blank&quot;&gt;Università della Svizzera Italiana (USI)&lt;/a&gt; in Lugano (Switzerland). Under the supervision of &lt;a href=&quot;https://www.inf.usi.ch/faculty/lanza/&quot; target=&quot;_blank&quot;&gt;Prof. Michele Lanza&lt;/a&gt;, he will devote six months to a research stay, deepening his research in the context of the RAINDROP project.&lt;/p&gt;
+&lt;p&gt;Maxime has been named laureate of the prestigious &lt;a href=&quot;https://www.sofinaboel.be/&quot; target=&quot;_blank&quot;&gt;SofinaBoël Fund for Education and Talent 2024 scholarship&lt;/a&gt;. In October 2024, he joined the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL research group&lt;/a&gt; at the &lt;a href=&quot;https://si.usi.ch/&quot; target=&quot;_blank&quot;&gt;Software Institute&lt;/a&gt; of the &lt;a href=&quot;https://usi.ch/&quot; target=&quot;_blank&quot;&gt;Università della Svizzera Italiana (USI)&lt;/a&gt; in Lugano (Switzerland). Under the supervision of &lt;a href=&quot;https://www.inf.usi.ch/faculty/lanza/&quot; target=&quot;_blank&quot;&gt;Prof. Michele Lanza&lt;/a&gt;, he devoted six months to a research stay, deepening his research in the context of the RAINDROP project.&lt;/p&gt;
 
 &lt;p&gt;Read more: &lt;a href=&quot;https://www.unamur.be/fr/newsroom/un-chercheur-en-informatique-de-lunamur-selectionne-pour-la-prestigieuse-bourse-0&quot; target=&quot;_blank&quot;&gt;UNamur&lt;/a&gt;, &lt;a href=&quot;https://www.frs-fnrs.be/fr/l-actualite-fnrs/3372-bourses-de-mobilite-sofinaboel-6-nouveaux-laureats-et-laureates&quot; target=&quot;_blank&quot;&gt;FNRS&lt;/a&gt;.&lt;/p&gt;
 

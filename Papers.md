@@ -3,6 +3,8 @@ layout: page
 title: Papers
 ---
 
+-  <a href="https://researchportal.unamur.be/fr/publications/understanding-data-access-in-microservices-applications-using-int" target="_blank">André, M., Raglianti, M., Cleve, A., & Lanza, M. (2025, April). Understanding Data Access in Microservices Applications Using Interactive Treemaps. In Proceedings of the the 33rd IEEE/ACM International Conference on Program Comprehension (ICPC 2025): Early Research Achievements (Accepted/under press).</a>
+
 -  <a href="https://dl.acm.org/doi/abs/10.1145/3626564.3629095" target="_blank">Noucti, C. D. (2023, December). Towards the Automatic Adaptation of Stateful Microservices Applications across Edge and Cloud. In Proceedings of the 24th International Middleware Conference (Middleware '23): Demos, Posters and Doctoral Symposium (pp. 19-20). Association for Computing Machinery, New York, NY, USA.</a>
 
 - <a href="https://dl.acm.org/doi/abs/10.1145/3626564.3629091" target="_blank">Cao, Y. (2023, December). Better Orchestration for SLO-Oriented Cross-site Microservices in Multi-tenant Cloud/Edge Continuum. In Proceedings of the 24th International Middleware Conference (Middleware '23): Demos, Posters and Doctoral Symposium (pp. 9-10). Association for Computing Machinery, New York, NY, USA.</a>

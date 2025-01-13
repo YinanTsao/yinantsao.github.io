@@ -78,6 +78,9 @@ The project is also supported by the <a href="https://www.sofinaboel.be/accueil/
 <div style="text-align: justify;">
   <ul>
     <li>
+      <a href="https://researchportal.unamur.be/fr/publications/understanding-data-access-in-microservices-applications-using-int" target="_blank">Understanding Data Access in Microservices Applications Using Interactive Treemaps</a>
+    </li>
+    <li>
       <a href="https://dl.acm.org/doi/abs/10.1145/3626564.3629095" target="_blank">Towards the Automatic Adaptation of Stateful Microservices Applications across Edge and Cloud</a>
     </li>
     <li>
