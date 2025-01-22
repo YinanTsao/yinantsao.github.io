@@ -78,6 +78,9 @@ The project is also supported by the <a href="https://www.sofinaboel.be/accueil/
 <div style="text-align: justify;">
   <ul>
     <li>
+      <a href="https://researchportal.unamur.be/fr/publications/data-access-centered-understanding-of-microservices-architectures" target="_blank">Data Access-centered Understanding of Microservices Architectures</a>
+    </li>
+    <li>
       <a href="https://researchportal.unamur.be/fr/publications/understanding-data-access-in-microservices-applications-using-int" target="_blank">Understanding Data Access in Microservices Applications Using Interactive Treemaps</a>
     </li>
     <li>
