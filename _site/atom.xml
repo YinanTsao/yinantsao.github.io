@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Project RAINDROP</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2025-01-22T10:35:55+01:00</updated>
- <id>http://localhost:4000</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2025-05-27T20:33:02+00:00</updated>
+ <id></id>
  <author>
    <name>Yinan CAO</name>
    <email>yinan.cao@uclouvain.be</email>
@@ -13,10 +13,45 @@
 
  
  <entry>
+   <title>CCGrid 2025</title>
+   <link href="/2025/05/18/CCGrid2025/"/>
+   <updated>2025-05-18T00:00:00+00:00</updated>
+   <id>/2025/05/18/CCGrid2025</id>
+   <content type="html">&lt;h3&gt;Yinan presented the paper at CCGrid 2025&lt;/h3&gt;
+
+&lt;p&gt;Yinan presented the paper at &lt;a href=&quot;https://site.uit.no/ccgrid2025/&quot; target=&quot;_blank&quot;&gt;CCGrid 2025&lt;/a&gt; on May 21st 2025 in Tromso, Norway.&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+    &lt;img src=&quot;/images/ccgrid1.jpg&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/images/ccgrid2.jpg&quot; height=&quot;350px&quot; /&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>CCGrid 2025</title>
+   <link href="/2025/02/18/CCGrid2025-accepted/"/>
+   <updated>2025-02-18T00:00:00+00:00</updated>
+   <id>/2025/02/18/CCGrid2025-accepted</id>
+   <content type="html">&lt;h3&gt;Paper accepted at CCGrid 2025&lt;/h3&gt;
+
+&lt;p&gt;The paper “LASSY: a Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum” has been accepted at &lt;a href=&quot;https://site.uit.no/ccgrid2025/&quot; target=&quot;_blank&quot;&gt;CCGrid 2025&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We proposed LASSY, SLO-sufficing scheduling model for the deployment of latency-sensitive monolithic applications on cloud/edge continuum. By introducing queueing theory and transfering the scheduling problem to optimization problem, LASSY accurately predicts the Round-trip time of users’ requests and generates placement plans with users-to-sites mapping for latency-sensitive monolithic applications deployment among the geographically distributed sites with minimum customizable cost.&lt;/p&gt;
+
+&lt;p&gt;Yinan will present the paper in the conference during May 18th-22nd 2025 in Tromso, Norway.&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+    &lt;img src=&quot;/images/LASSY.png&quot; width=&quot;70%&quot; /&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
    <title>ICSA 2025</title>
-   <link href="http://localhost:4000/2025/01/21/ICSA2025/"/>
-   <updated>2025-01-21T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2025/01/21/ICSA2025</id>
+   <link href="/2025/01/21/ICSA2025/"/>
+   <updated>2025-01-21T00:00:00+00:00</updated>
+   <id>/2025/01/21/ICSA2025</id>
    <content type="html">&lt;h3&gt;A paper accepted at ICSA 2025&lt;/h3&gt;
 
 &lt;p&gt;The paper “Data Access-centered Understanding of Microservices Architectures” has been accepted at &lt;a href=&quot;https://conf.researchr.org/home/icsa-2025&quot; target=&quot;_blank&quot;&gt;ICSA 2025&lt;/a&gt;.&lt;/p&gt;
@@ -34,9 +69,9 @@
  
  <entry>
    <title>ICPC 2025</title>
-   <link href="http://localhost:4000/2025/01/13/ICPC2025/"/>
-   <updated>2025-01-13T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2025/01/13/ICPC2025</id>
+   <link href="/2025/01/13/ICPC2025/"/>
+   <updated>2025-01-13T00:00:00+00:00</updated>
+   <id>/2025/01/13/ICPC2025</id>
    <content type="html">&lt;h3&gt;A paper accepted at ICPC 2025&lt;/h3&gt;
 
 &lt;p&gt;The paper “Understanding Data Access in Microservices Applications Using Interactive Treemaps” has been accepted at &lt;a href=&quot;https://conf.researchr.org/home/icpc-2025&quot; target=&quot;_blank&quot;&gt;ICPC 2025&lt;/a&gt; (co-located with &lt;a href=&quot;https://conf.researchr.org/home/icse-2025&quot; target=&quot;_blank&quot;&gt;ICSE 2025&lt;/a&gt;).&lt;/p&gt;
@@ -58,9 +93,9 @@
  
  <entry>
    <title>Grascomp Doctoral Day 2024</title>
-   <link href="http://localhost:4000/2024/09/09/GDD2024-copy/"/>
-   <updated>2024-09-09T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2024/09/09/GDD2024 copy</id>
+   <link href="/2024/09/09/GDD2024-copy/"/>
+   <updated>2024-09-09T00:00:00+00:00</updated>
+   <id>/2024/09/09/GDD2024 copy</id>
    <content type="html">&lt;h3&gt;Carole and Maxime presented their research at the Grascomp Doctoral Day 2024 in Louvain-la-Neuve&lt;/h3&gt;
 
 &lt;p&gt;Carole and Maxime each presented a poster vulgarizing their research topic at &lt;a href=&quot;https://www.frs-fnrs.be/fr/financements/chercheur-doctorant/ecoles-doctorales/ecoles-doctorales-thematiques/119-fr/nos-financements/chercheur-doctorant/ecoles-doctorales/edt/221-graduate-school-in-computing-science-grascomp&quot; target=&quot;_blank&quot;&gt;Grascomp&lt;/a&gt;’s &lt;a href=&quot;https://web.umons.ac.be/infortech/event/grascomp-2024-doctoral-school-for-computing-science/&quot; target=&quot;_blank&quot;&gt;Doctoral Day 2024 that took place in Louvain-la-Neuve (Belgium)&lt;/a&gt;.&lt;/p&gt;
@@ -73,9 +108,9 @@
  
  <entry>
    <title>SIESTA 2024</title>
-   <link href="http://localhost:4000/2024/09/04/SIESTA2024/"/>
-   <updated>2024-09-04T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2024/09/04/SIESTA2024</id>
+   <link href="/2024/09/04/SIESTA2024/"/>
+   <updated>2024-09-04T00:00:00+00:00</updated>
+   <id>/2024/09/04/SIESTA2024</id>
    <content type="html">&lt;h3&gt;Maxime presented his works at SIESTA 2024 in Bari&lt;/h3&gt;
 
 &lt;p&gt;On September 4, 2024, Maxime presented his works at the &lt;a href=&quot;https://siesta.si.usi.ch/2024/&quot; target=&quot;_blank&quot;&gt;2024 International Software Engineering Summer School in Bari (Italy)&lt;/a&gt;.&lt;/p&gt;
@@ -88,9 +123,9 @@
  
  <entry>
    <title>SofinaBoël 2024</title>
-   <link href="http://localhost:4000/2024/04/25/SofinaBoel2024/"/>
-   <updated>2024-04-25T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2024/04/25/SofinaBoel2024</id>
+   <link href="/2024/04/25/SofinaBoel2024/"/>
+   <updated>2024-04-25T00:00:00+00:00</updated>
+   <id>/2024/04/25/SofinaBoel2024</id>
    <content type="html">&lt;h3&gt;Maxime is laureate of a SofinaBoël Fund for Education and Talent 2024 fellowship&lt;/h3&gt;
 
 &lt;p&gt;Maxime has been named laureate of the prestigious &lt;a href=&quot;https://www.sofinaboel.be/&quot; target=&quot;_blank&quot;&gt;SofinaBoël Fund for Education and Talent 2024 scholarship&lt;/a&gt;. In October 2024, he joined the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL research group&lt;/a&gt; at the &lt;a href=&quot;https://si.usi.ch/&quot; target=&quot;_blank&quot;&gt;Software Institute&lt;/a&gt; of the &lt;a href=&quot;https://usi.ch/&quot; target=&quot;_blank&quot;&gt;Università della Svizzera Italiana (USI)&lt;/a&gt; in Lugano (Switzerland). Under the supervision of &lt;a href=&quot;https://www.inf.usi.ch/faculty/lanza/&quot; target=&quot;_blank&quot;&gt;Prof. Michele Lanza&lt;/a&gt;, he devoted six months to a research stay, deepening his research in the context of the RAINDROP project.&lt;/p&gt;
@@ -105,9 +140,9 @@
  
  <entry>
    <title>Middleware 2023</title>
-   <link href="http://localhost:4000/2023/12/11/Middleware2023/"/>
-   <updated>2023-12-11T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2023/12/11/Middleware2023</id>
+   <link href="/2023/12/11/Middleware2023/"/>
+   <updated>2023-12-11T00:00:00+00:00</updated>
+   <id>/2023/12/11/Middleware2023</id>
    <content type="html">&lt;h3&gt;Carole and Yinan presented their works at Middleware 2023 in Bologna&lt;/h3&gt;
 
 &lt;p&gt;On December 12, 2023, Carole and Yinan presented their works at the &lt;a href=&quot;https://middleware-conf.github.io/2023/&quot; target=&quot;_blank&quot;&gt;2023 International Middleware Conference in Bologna (Italy)&lt;/a&gt;.&lt;/p&gt;
@@ -123,9 +158,9 @@
  
  <entry>
    <title>SIESTA 2023</title>
-   <link href="http://localhost:4000/2023/09/11/SIESTA2023/"/>
-   <updated>2023-09-11T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2023/09/11/SIESTA2023</id>
+   <link href="/2023/09/11/SIESTA2023/"/>
+   <updated>2023-09-11T00:00:00+00:00</updated>
+   <id>/2023/09/11/SIESTA2023</id>
    <content type="html">&lt;h3&gt;Maxime presented his works at SIESTA 2023 in Lugano&lt;/h3&gt;
 
 &lt;p&gt;On September 11, 2023, Maxime presented his works at the &lt;a href=&quot;https://siesta.si.usi.ch/2023/&quot; target=&quot;_blank&quot;&gt;2023 International Software Engineering Summer School in Lugano (Switzerland)&lt;/a&gt;.&lt;/p&gt;
@@ -138,9 +173,9 @@
  
  <entry>
    <title>VLDB 2023</title>
-   <link href="http://localhost:4000/2023/08/28/VLDB2023/"/>
-   <updated>2023-08-28T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2023/08/28/VLDB2023</id>
+   <link href="/2023/08/28/VLDB2023/"/>
+   <updated>2023-08-28T00:00:00+00:00</updated>
+   <id>/2023/08/28/VLDB2023</id>
    <content type="html">&lt;h3&gt;Maxime presented his works at VLDB 2023 in Vancouver&lt;/h3&gt;
 
 &lt;p&gt;On August 26, 2023, Maxime presented his works at the &lt;a href=&quot;https://vldb.org/2023/&quot; target=&quot;_blank&quot;&gt;2023 International Conference on Very Large Databases in Vancouver (Canada)&lt;/a&gt; in the PhD Workshop track.&lt;/p&gt;
@@ -155,9 +190,9 @@
  
  <entry>
    <title>VLDB 2023</title>
-   <link href="http://localhost:4000/2022/12/05/JCE2022/"/>
-   <updated>2022-12-05T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2022/12/05/JCE2022</id>
+   <link href="/2022/12/05/JCE2022/"/>
+   <updated>2022-12-05T00:00:00+00:00</updated>
+   <id>/2022/12/05/JCE2022</id>
    <content type="html">&lt;h3&gt;The team at JCE 2022 in Paris&lt;/h3&gt;
 
 &lt;p&gt;Doctoral students took part in the &lt;a href=&quot;https://journeescloud2022.wp.imt.fr/&quot; target=&quot;_blank&quot;&gt;Journées Cloud/Edge 2022&lt;/a&gt; in Paris (France) organized by &lt;a href=&quot;https://www.imt.fr/&quot;&gt;IMT Télécom SudParis and IMT Télécom Paris&lt;/a&gt; on December 5 and 6, 2022.&lt;/p&gt;
@@ -170,9 +205,9 @@
  
  <entry>
    <title>Kick-off</title>
-   <link href="http://localhost:4000/2022/09/04/Kick-off/"/>
-   <updated>2022-09-04T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2022/09/04/Kick-off</id>
+   <link href="/2022/09/04/Kick-off/"/>
+   <updated>2022-09-04T00:00:00+00:00</updated>
+   <id>/2022/09/04/Kick-off</id>
    <content type="html">&lt;h3&gt;Kick-off in Namur&lt;/h3&gt;
 
 &lt;p&gt;The teams met in Namur on September 4, 2022, to launch the project.&lt;/p&gt;
