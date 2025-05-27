@@ -12,5 +12,5 @@ We proposed LASSY, SLO-sufficing scheduling model for the deployment of latency-
 Yinan will present the paper in the conference during May 18th-22nd 2025 in Tromso, Norway.
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="/images/LASSY.png" width="70%"/>
+    <img src="/images/LASSY.png" width="75%"/>
 </div>
