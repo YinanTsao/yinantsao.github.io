@@ -9,7 +9,7 @@ title: Description
 
 <div style="text-align: justify;">
 
-<img src="/images/raindrop-logo.png" height="50%" width="50%" style="float: left;"/>
+<img src="{{ site.baseurl }}/images/raindrop-logo.png" height="50%" width="50%" style="float: left;"/>
 
 The Cross-stack Adaptation for the Edgification of Microservices Applications research project, also called RAINDROP, started in September 2022.
 
@@ -43,7 +43,7 @@ The overall vision of RAINDROP is illustrated by the figure below.
 
 <br/><br />
 
-<img src="/images/raindrop_principle.png" />
+<img src="{{ site.baseurl }}/images/raindrop_principle.png" />
 
 </div>
 
@@ -67,10 +67,10 @@ The project is also supported by the <a href="https://www.sofinaboel.be/accueil/
 </div>
 
 <div style="display: flex; justify-content: space-around;">
-    <a href="https://uclouvain.be/fr/index.html" target="_blank"><img src="/images/logo_UCLouvain_small.jpg" style="height: 50px;"/></a>
-    <a href="https://www.unamur.be/" target="_blank"><img src="/images/logo_UNamur_small.png" style="height: 50px;"/></a>
-  <a href="https://www.federation-wallonie-bruxelles.be/" target="_blank"><img src="/images/logo_fwb.jpg" style="height: 50px;"/></a>
-  <a href="https://www.sofinaboel.be/accueil/" target="_blank"><img src="/images/sofinaboel.png" style="height: 50px;"/></a>
+    <a href="https://uclouvain.be/fr/index.html" target="_blank"><img src="{{ site.baseurl }}/images/logo_UCLouvain_small.jpg" style="height: 50px;"/></a>
+    <a href="https://www.unamur.be/" target="_blank"><img src="{{ site.baseurl }}/images/logo_UNamur_small.png" style="height: 50px;"/></a>
+  <a href="https://www.federation-wallonie-bruxelles.be/" target="_blank"><img src="{{ site.baseurl }}/images/logo_fwb.jpg" style="height: 50px;"/></a>
+  <a href="https://www.sofinaboel.be/accueil/" target="_blank"><img src="{{ site.baseurl }}/images/sofinaboel.png" style="height: 50px;"/></a>
 </div>
 
 <h2>Highlighted papers</h2>

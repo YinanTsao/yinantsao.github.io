@@ -7,7 +7,7 @@ title: Team
 
 <br/>
 
-**<img src="/images/carole.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Carole Djeumo Noucti (UCLouvain)**
+**<img src="{{ site.baseurl }}/images/carole.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Carole Djeumo Noucti (UCLouvain)**
 <h4>Focusing on runtime placement and adaptation of microservices applications across the edge-cloud continuum.</h4>
 <br/>
 <br/>
@@ -15,7 +15,7 @@ title: Team
 <br/>
 <br/>
 
-**<img src="/images/maxime.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Maxime André (UNamur)**
+**<img src="{{ site.baseurl }}/images/maxime.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Maxime André (UNamur)**
 <h4>Focusing on software evolution and data management for microservices applications.</h4>
 - <a href="https://researchportal.unamur.be/fr/persons/maxime-andre" target="_blank">Homepage</a>
 - <a href="https://scholar.google.com/citations?user=mVq8DwkAAAAJ" target="_blank">Publications (Google Scholar)</a>
@@ -24,9 +24,10 @@ title: Team
 <br/>
 <br/>
 
-**<img src="/images/yinan.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Yinan Cao (UCLouvain)**
+**<img src="{{ site.baseurl }}/images/yinan.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Yinan Cao (UCLouvain)**
 <h4>Focusing on infrastructure management and adaptation in the continuum.</h4>
-<br/>
+- <a href="https://www.uclouvain.be/en/people/yinan.cao" target="_blank">Homepage</a>
+- <a href="https://scholar.google.com/citations?user=j0ryMx4AAAAJ&hl=en&oi=ao" target="_blank">Publications (Google Scholar)</a>
 <br/>
 <br/>
 <br/>
@@ -35,7 +36,7 @@ title: Team
 ### Professors
 <br/>
 
-**<img src="/images/anthony.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Prof. Anthony Clève (UNamur)**
+**<img src="{{ site.baseurl }}/images/anthony.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Prof. Anthony Clève (UNamur)**
 <h4>Leading the activities around software evolution and data management adaptation.</h4>
 <br/>
 - <a href="https://directory.unamur.be/staff/acleve" target="_blank">Homepage</a>
@@ -45,7 +46,7 @@ title: Team
 <br/>
 <br/>
 
-**<img src="/images/etienne.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Prof. Etienne Rivière (UCLouvain), Spokesperson**
+**<img src="{{ site.baseurl }}/images/etienne.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Prof. Etienne Rivière (UCLouvain), Spokesperson**
 <h4>Leading the activities around application adaptation.</h4>
 <br/>
 - <a href="https://cloudlargescale-uclouvain.github.io/Etienne_Riviere" target="_blank">Homepage</a>
@@ -55,7 +56,7 @@ title: Team
 <br/>
 <br/>
 
-**<img src="/images/ramin.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Prof. Ramin Sadre (UCLouvain)**
+**<img src="{{ site.baseurl }}/images/ramin.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Prof. Ramin Sadre (UCLouvain)**
 <h4>Leading the activities around infrastructure adaptation.</h4>
 <br/>
 - <a href="https://perso.uclouvain.be/ramin.sadre/" target="_blank">Homepage</a>
@@ -70,7 +71,7 @@ title: Team
 
 <br/>
 
-**<img src="/images/loup.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Loup Meurice (UNamur)**
+**<img src="{{ site.baseurl }}/images/loup.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Loup Meurice (UNamur)**
 <h4>Focusing on software evolution and data management for microservices applications.</h4>
 - <a href="https://loupmeurice.github.io/" target="_blank">Homepage</a>
 - <a href="https://scholar.google.com/citations?user=9HXN7EQAAAAJ" target="_blank">Publications (Google Scholar)</a>
