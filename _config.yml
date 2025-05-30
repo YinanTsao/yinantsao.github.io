@@ -3,7 +3,8 @@ title:               Project RAINDROP
 tagline:             'from UCLouvain and UNamur'
 description:         'RAINDROP aims to address in a unique way the challenge of building, deploying, and operating applications on upcoming cloud infrastructures formed of a continuum of core (data centers) and edge resources.'
 url:                 'https://sites.uclouvain.be'
-baseurl:             '/raindrop'
+baseurl:             ''
+# Change baseurl to /raindrop for official deployment, if not, leave it empty ''
 paginate:            5
 permalink:           pretty
 
