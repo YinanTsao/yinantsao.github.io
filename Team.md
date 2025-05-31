@@ -7,14 +7,6 @@ title: Team
 
 <br/>
 
-**<img src="{{ site.baseurl }}/images/carole.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Carole Djeumo Noucti (UCLouvain)**
-<h4>Focusing on runtime placement and adaptation of microservices applications across the edge-cloud continuum.</h4>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
 **<img src="{{ site.baseurl }}/images/maxime.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Maxime André (UNamur)**
 <h4>Focusing on software evolution and data management for microservices applications.</h4>
 - <a href="https://researchportal.unamur.be/fr/persons/maxime-andre" target="_blank">Homepage</a>
@@ -62,13 +54,16 @@ title: Team
 - <a href="https://perso.uclouvain.be/ramin.sadre/" target="_blank">Homepage</a>
 - <a href="https://scholar.google.de/citations?user=I8W1rLMAAAAJ" target="_blank">Publications (Google Scholar)</a>
 
-<br/>
-<br/>
-<br/>
+### Alumni
+
 <br/>
 
-### Almuni
-
+**<img src="{{ site.baseurl }}/images/carole.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Carole Djeumo Noucti (UCLouvain)**
+<h4>Focusing on runtime placement and adaptation of microservices applications across the edge-cloud continuum.</h4>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 
 **<img src="{{ site.baseurl }}/images/loup.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Loup Meurice (UNamur)**
@@ -79,7 +74,10 @@ title: Team
 <br/>
 <br/>
 <br/>
-
 <p class="message">
     In addition to its core members, RAINDROP intends to establish collaborations at the Belgian and international levels. External members are warmly encouraged to get in touch with either of the co-PIs for any question or collaboration request.
+</p>
+
+<p class="message">
+    Have a look to <a href="https://cloudlargescale-uclouvain.github.io/vacancies" target="_blank">our open positions</a>.
 </p>

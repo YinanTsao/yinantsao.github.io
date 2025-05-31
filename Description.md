@@ -9,7 +9,7 @@ title: Description
 
 <div style="text-align: justify;">
 
-<img src="{{ site.baseurl }}/images/raindrop-logo.png" height="50%" width="50%" style="float: left;"/>
+<img src="{{ site.baseurl }}/images/logo_raindrop.png" height="50%" width="50%" style="float: left;"/>
 
 The Cross-stack Adaptation for the Edgification of Microservices Applications research project, also called RAINDROP, started in September 2022.
 
@@ -43,7 +43,7 @@ The overall vision of RAINDROP is illustrated by the figure below.
 
 <br/><br />
 
-<img src="{{ site.baseurl }}/images/raindrop_principle.png" />
+<img src="{{ site.baseurl }}/images/raindrop.png" />
 
 </div>
 
@@ -70,7 +70,7 @@ The project is also supported by the <a href="https://www.sofinaboel.be/accueil/
     <a href="https://uclouvain.be/fr/index.html" target="_blank"><img src="{{ site.baseurl }}/images/logo_UCLouvain_small.jpg" style="height: 50px;"/></a>
     <a href="https://www.unamur.be/" target="_blank"><img src="{{ site.baseurl }}/images/logo_UNamur_small.png" style="height: 50px;"/></a>
   <a href="https://www.federation-wallonie-bruxelles.be/" target="_blank"><img src="{{ site.baseurl }}/images/logo_fwb.jpg" style="height: 50px;"/></a>
-  <a href="https://www.sofinaboel.be/accueil/" target="_blank"><img src="{{ site.baseurl }}/images/sofinaboel.png" style="height: 50px;"/></a>
+  <a href="https://www.sofinaboel.be/accueil/" target="_blank"><img src="{{ site.baseurl }}/images/logo_sofinaboel.png" style="height: 50px;"/></a>
 </div>
 
 <h2>Highlighted papers</h2>
@@ -78,19 +78,13 @@ The project is also supported by the <a href="https://www.sofinaboel.be/accueil/
 <div style="text-align: justify;">
   <ul>
     <li>
-      <a href="https://researchportal.unamur.be/fr/publications/data-access-centered-understanding-of-microservices-architectures" target="_blank">Data Access-centered Understanding of Microservices Architectures</a>
+      LASSY: a Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum (CCGrid 2025).
     </li>
     <li>
-      <a href="https://researchportal.unamur.be/fr/publications/understanding-data-access-in-microservices-applications-using-int" target="_blank">Understanding Data Access in Microservices Applications Using Interactive Treemaps</a>
+      <a href="https://researchportal.unamur.be/fr/publications/data-access-centered-understanding-of-microservices-architectures" target="_blank">Data Access-centered Understanding of Microservices Architectures (ICSA 2025)</a>
     </li>
     <li>
-      <a href="https://dl.acm.org/doi/abs/10.1145/3626564.3629095" target="_blank">Towards the Automatic Adaptation of Stateful Microservices Applications across Edge and Cloud</a>
-    </li>
-    <li>
-      <a href="https://dl.acm.org/doi/abs/10.1145/3626564.3629091" target="_blank">Better Orchestration for SLO-Oriented Cross-site Microservices in Multi-tenant Cloud/Edge Continuum</a>
-    </li>
-    <li>
-      <a href="https://ceur-ws.org/Vol-3452/paper10.pdf" target="_blank">Automated Database Schema Evolution in Microservices</a>
+      <a href="https://researchportal.unamur.be/fr/publications/understanding-data-access-in-microservices-applications-using-int" target="_blank">Understanding Data Access in Microservices Applications Using Interactive Treemaps (ICPC 2025)</a>
     </li>
   </ul>
 </div>
