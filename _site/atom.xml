@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Project RAINDROP</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2025-05-31T16:23:13+02:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://sites.uclouvain.be/raindrop/atom.xml" rel="self"/>
+ <link href="https://sites.uclouvain.be/raindrop/"/>
+ <updated>2025-06-03T14:18:31+00:00</updated>
+ <id>https://sites.uclouvain.be</id>
  <author>
    <name>Yinan CAO</name>
    <email>yinan.cao@uclouvain.be</email>
@@ -14,33 +14,33 @@
  
  <entry>
    <title>CCGrid 2025</title>
-   <link href="http://localhost:4000/2025/05/18/CCGrid2025/"/>
-   <updated>2025-05-18T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2025/05/18/CCGrid2025</id>
+   <link href="https://sites.uclouvain.be/2025/05/18/CCGrid2025/"/>
+   <updated>2025-05-18T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2025/05/18/CCGrid2025</id>
    <content type="html">&lt;h3&gt;Yinan presented the paper at CCGrid 2025&lt;/h3&gt;
 
-&lt;p&gt;Yinan presented the paper “LASSY: a Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum” has been accepted at &lt;a href=&quot;https://site.uit.no/ccgrid2025/&quot; target=&quot;_blank&quot;&gt;CCGrid 2025&lt;/a&gt; on May 21st 2025 in Tromso, Norway.&lt;/p&gt;
+&lt;p&gt;Yinan presented the paper “LASSY: a Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum” at &lt;a href=&quot;https://site.uit.no/ccgrid2025/&quot; target=&quot;_blank&quot;&gt;CCGrid 2025&lt;/a&gt; on May 21st 2025 in Tromso, Norway.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/CCGRID-3.jpg&quot; height=&quot;350px&quot; /&gt;
-    &lt;img src=&quot;/images/CCGRID-2.jpg&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/CCGRID-3.jpg&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/CCGRID-2.jpg&quot; height=&quot;350px&quot; /&gt;
 &lt;/div&gt;
 </content>
  </entry>
  
  <entry>
    <title>ICPC 2025</title>
-   <link href="http://localhost:4000/2025/04/27/ICPC2025/"/>
-   <updated>2025-04-27T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2025/04/27/ICPC2025</id>
+   <link href="https://sites.uclouvain.be/2025/04/27/ICPC2025/"/>
+   <updated>2025-04-27T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2025/04/27/ICPC2025</id>
    <content type="html">&lt;h3&gt;Maxime presented his works at ICPC 2025 in Ottawa (Canada)&lt;/h3&gt;
 
 &lt;p&gt;On April 2nd, 2025, Maxime presented his works at &lt;a href=&quot;https://conf.researchr.org/home/icpc-2025&quot; target=&quot;_blank&quot;&gt;ICPC 2025&lt;/a&gt; in the ERA track.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/ICPC2025-3.jpg&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/ICPC2025-3.jpg&quot; height=&quot;350px&quot; /&gt;
     &lt;br /&gt;
-    &lt;img src=&quot;/images/ICSE2025-1.jpg&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/ICSE2025-1.jpg&quot; height=&quot;350px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;The paper presented is &lt;a href=&quot;https://researchportal.unamur.be/fr/publications/understanding-data-access-in-microservices-applications-using-int&quot; target=&quot;_blank&quot;&gt;Data Access-centered Understanding of Microservices Architectures&lt;/a&gt;.&lt;/p&gt;
@@ -49,15 +49,15 @@
  
  <entry>
    <title>ICSA 2025</title>
-   <link href="http://localhost:4000/2025/04/02/ICSA2025/"/>
-   <updated>2025-04-02T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2025/04/02/ICSA2025</id>
+   <link href="https://sites.uclouvain.be/2025/04/02/ICSA2025/"/>
+   <updated>2025-04-02T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2025/04/02/ICSA2025</id>
    <content type="html">&lt;h3&gt;Maxime presented his works at ICSA 2025 in Odense (Danemark)&lt;/h3&gt;
 
 &lt;p&gt;On April 2nd, 2025, Maxime presented his works at &lt;a href=&quot;https://conf.researchr.org/home/icsa-2025&quot; target=&quot;_blank&quot;&gt;ICSA 2025&lt;/a&gt; in the NEMI track.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/ICSA2025-3.jpg&quot; width=&quot;50%&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/ICSA2025-3.jpg&quot; width=&quot;50%&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;The paper presented is &lt;a href=&quot;https://researchportal.unamur.be/fr/publications/data-access-centered-understanding-of-microservices-architectures&quot; target=&quot;_blank&quot;&gt;Data Access-centered Understanding of Microservices Architectures&lt;/a&gt;.&lt;/p&gt;
@@ -66,9 +66,9 @@
  
  <entry>
    <title>SofinaBoël 2024</title>
-   <link href="http://localhost:4000/2025/03/27/SofinaBoel2024/"/>
-   <updated>2025-03-27T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2025/03/27/SofinaBoel2024</id>
+   <link href="https://sites.uclouvain.be/2025/03/27/SofinaBoel2024/"/>
+   <updated>2025-03-27T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2025/03/27/SofinaBoel2024</id>
    <content type="html">&lt;h3&gt;Maxime is back in Belgium after spending 6 months in Switzerland.&lt;/h3&gt;
 
 &lt;p&gt;Thanks to the &lt;a href=&quot;/2024/04/25/SofinaBoel2024/&quot;&gt;SofinaBoël Fund for Education and Talent 2024 scholarship that Maxime had the honor of receiving in March 2024&lt;/a&gt;, he was able to enjoy an extraordinary scientific and human experience. For six months, he had the opportunity to join the &lt;a href=&quot;https://usi.ch/&quot; target=&quot;_blank&quot;&gt;Università della Svizzera Italiana (USI)&lt;/a&gt;, within the &lt;a href=&quot;https://si.usi.ch/&quot; target=&quot;_blank&quot;&gt;Software Institute&lt;/a&gt;, and more specifically the REVEAL research group, headed by &lt;a href=&quot;https://www.inf.usi.ch/faculty/lanza/&quot; target=&quot;_blank&quot;&gt;Prof. Michele Lanza&lt;/a&gt;.&lt;/p&gt;
@@ -76,16 +76,16 @@
 &lt;p&gt;During his stay, he worked on a visualization solution based on interactive treemaps, capable of displaying how microservices and their databases are structured. This makes it easier to anticipate the impact of change. This work resulted in a publication in the ERA Track of the &lt;a href=&quot;/2025/04/27/ICPC2025/&quot;&gt;ICPC 2025 conference&lt;/a&gt;, held in Ottawa last April.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/SofinaBoel2024-2.jpg&quot; width=&quot;50%&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/SofinaBoel2024-2.jpg&quot; width=&quot;50%&quot; /&gt;
 &lt;/div&gt;
 </content>
  </entry>
  
  <entry>
    <title>CCGrid 2025</title>
-   <link href="http://localhost:4000/2025/02/18/CCGrid2025-accepted/"/>
-   <updated>2025-02-18T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2025/02/18/CCGrid2025-accepted</id>
+   <link href="https://sites.uclouvain.be/2025/02/18/CCGrid2025-accepted/"/>
+   <updated>2025-02-18T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2025/02/18/CCGrid2025-accepted</id>
    <content type="html">&lt;h3&gt;A paper accepted at CCGrid 2025&apos;s research track&lt;/h3&gt;
 
 &lt;p&gt;The paper “LASSY: a Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum” has been accepted to &lt;a href=&quot;https://site.uit.no/ccgrid2025/&quot; target=&quot;_blank&quot;&gt;CCGrid 2025&lt;/a&gt; in the research track.&lt;/p&gt;
@@ -95,16 +95,16 @@
 &lt;p&gt;Yinan will present the paper in the conference during May 18th-22nd 2025 in Tromso (Norway).&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/CCGRID-1.png&quot; width=&quot;85%&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/CCGRID-1.png&quot; width=&quot;85%&quot; /&gt;
 &lt;/div&gt;
 </content>
  </entry>
  
  <entry>
    <title>ICSA 2025</title>
-   <link href="http://localhost:4000/2025/01/21/ICSA2025-accepted/"/>
-   <updated>2025-01-21T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2025/01/21/ICSA2025-accepted</id>
+   <link href="https://sites.uclouvain.be/2025/01/21/ICSA2025-accepted/"/>
+   <updated>2025-01-21T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2025/01/21/ICSA2025-accepted</id>
    <content type="html">&lt;h3&gt;A paper accepted at ICSA 2025&apos;s NEMI track&lt;/h3&gt;
 
 &lt;p&gt;The paper “Data Access-centered Understanding of Microservices Architectures” has been accepted to &lt;a href=&quot;https://conf.researchr.org/home/icsa-2025&quot; target=&quot;_blank&quot;&gt;ICSA 2025&lt;/a&gt; in the NEMI track.&lt;/p&gt;
@@ -114,16 +114,16 @@
 &lt;p&gt;Maxime will present this paper early April 2025 in Odense (Danemark).&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/ICSA2025-3.jpg&quot; width=&quot;50%&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/ICSA2025-3.jpg&quot; width=&quot;50%&quot; /&gt;
 &lt;/div&gt;
 </content>
  </entry>
  
  <entry>
    <title>ICPC 2025</title>
-   <link href="http://localhost:4000/2025/01/13/ICPC2025-accepted/"/>
-   <updated>2025-01-13T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2025/01/13/ICPC2025-accepted</id>
+   <link href="https://sites.uclouvain.be/2025/01/13/ICPC2025-accepted/"/>
+   <updated>2025-01-13T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2025/01/13/ICPC2025-accepted</id>
    <content type="html">&lt;h3&gt;A paper accepted at ICPC 2025&apos;s ERA track&lt;/h3&gt;
 
 &lt;p&gt;The paper “Understanding Data Access in Microservices Applications Using Interactive Treemaps” has been accepted to &lt;a href=&quot;https://conf.researchr.org/home/icpc-2025&quot; target=&quot;_blank&quot;&gt;ICPC 2025&lt;/a&gt; (co-located with &lt;a href=&quot;https://conf.researchr.org/home/icse-2025&quot; target=&quot;_blank&quot;&gt;ICSE 2025&lt;/a&gt;) in the ERA track.&lt;/p&gt;
@@ -135,25 +135,25 @@
 &lt;p&gt;This paper has been co-authored with researchers of the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL research group&lt;/a&gt; at &lt;a href=&quot;_blank&quot;&gt;Università della Svizzera italiana (USI)&lt;/a&gt; in Lugano (Switzerland) where Maxime is doing a research stay. This collaboration is supported by the &lt;a href=&quot;https://www.sofinaboel.be/&quot; target=&quot;_blank&quot;&gt;SofinaBoël Fund for Education and Talent&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/ICPC2025-1.png&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/ICPC2025-1.png&quot; height=&quot;350px&quot; /&gt;
 &lt;/div&gt;
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/ICPC2025-2.jpeg&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/ICPC2025-2.jpeg&quot; height=&quot;350px&quot; /&gt;
 &lt;/div&gt;
 </content>
  </entry>
  
  <entry>
    <title>Grascomp Doctoral Day 2024</title>
-   <link href="http://localhost:4000/2024/09/09/GDD2024/"/>
-   <updated>2024-09-09T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2024/09/09/GDD2024</id>
+   <link href="https://sites.uclouvain.be/2024/09/09/GDD2024/"/>
+   <updated>2024-09-09T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2024/09/09/GDD2024</id>
    <content type="html">&lt;h3&gt;Carole and Maxime presented their research at the Grascomp Doctoral Day 2024 in Louvain-la-Neuve (Belgium)&lt;/h3&gt;
 
 &lt;p&gt;Carole and Maxime each presented a poster vulgarizing their research topic at &lt;a href=&quot;https://www.frs-fnrs.be/fr/financements/chercheur-doctorant/ecoles-doctorales/ecoles-doctorales-thematiques/119-fr/nos-financements/chercheur-doctorant/ecoles-doctorales/edt/221-graduate-school-in-computing-science-grascomp&quot; target=&quot;_blank&quot;&gt;Grascomp&lt;/a&gt;’s &lt;a href=&quot;https://web.umons.ac.be/infortech/event/grascomp-2024-doctoral-school-for-computing-science/&quot; target=&quot;_blank&quot;&gt;GDD 2024&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/GDD-1.jpeg&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/GDD-1.jpeg&quot; height=&quot;350px&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;The poster of Maxime is &lt;a href=&quot;https://zenodo.org/records/13753347&quot; target=&quot;_blank&quot;&gt;Supporting Database Evolution in Microservices&lt;/a&gt;.&lt;/p&gt;
@@ -162,24 +162,24 @@
  
  <entry>
    <title>SIESTA 2024</title>
-   <link href="http://localhost:4000/2024/09/04/SIESTA2024/"/>
-   <updated>2024-09-04T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2024/09/04/SIESTA2024</id>
+   <link href="https://sites.uclouvain.be/2024/09/04/SIESTA2024/"/>
+   <updated>2024-09-04T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2024/09/04/SIESTA2024</id>
    <content type="html">&lt;h3&gt;Maxime presented his works at SIESTA 2024 in Bari (Italy)&lt;/h3&gt;
 
 &lt;p&gt;On September 4, 2024, Maxime presented his works at the &lt;a href=&quot;https://siesta.si.usi.ch/2024/&quot; target=&quot;_blank&quot;&gt;SIESTA 2024&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/SIESTA2024-1.jpg&quot; width=&quot;50%&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/SIESTA2024-1.jpg&quot; width=&quot;50%&quot; /&gt;
 &lt;/div&gt;
 </content>
  </entry>
  
  <entry>
    <title>SofinaBoël 2024</title>
-   <link href="http://localhost:4000/2024/04/25/SofinaBoel2024/"/>
-   <updated>2024-04-25T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2024/04/25/SofinaBoel2024</id>
+   <link href="https://sites.uclouvain.be/2024/04/25/SofinaBoel2024/"/>
+   <updated>2024-04-25T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2024/04/25/SofinaBoel2024</id>
    <content type="html">&lt;h3&gt;Maxime is laureate of a SofinaBoël Fund for Education and Talent 2024 fellowship&lt;/h3&gt;
 
 &lt;p&gt;Maxime has been named laureate of the prestigious &lt;a href=&quot;https://www.sofinaboel.be/&quot; target=&quot;_blank&quot;&gt;SofinaBoël Fund for Education and Talent 2024 scholarship&lt;/a&gt;. In October 2024, he joined the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL research group&lt;/a&gt; at the &lt;a href=&quot;https://si.usi.ch/&quot; target=&quot;_blank&quot;&gt;Software Institute&lt;/a&gt; of the &lt;a href=&quot;https://usi.ch/&quot; target=&quot;_blank&quot;&gt;Università della Svizzera Italiana (USI)&lt;/a&gt; in Lugano (Switzerland). Under the supervision of &lt;a href=&quot;https://www.inf.usi.ch/faculty/lanza/&quot; target=&quot;_blank&quot;&gt;Prof. Michele Lanza&lt;/a&gt;, he devoted six months to a research stay, deepening his research in the context of the RAINDROP project.&lt;/p&gt;
@@ -187,23 +187,23 @@
 &lt;p&gt;Read more: &lt;a href=&quot;https://www.unamur.be/fr/newsroom/un-chercheur-en-informatique-de-lunamur-selectionne-pour-la-prestigieuse-bourse-0&quot; target=&quot;_blank&quot;&gt;UNamur&lt;/a&gt;, &lt;a href=&quot;https://www.frs-fnrs.be/fr/l-actualite-fnrs/3372-bourses-de-mobilite-sofinaboel-6-nouveaux-laureats-et-laureates&quot; target=&quot;_blank&quot;&gt;FNRS&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/SofinaBoel2024-1.jpg&quot; width=&quot;50%&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/SofinaBoel2024-1.jpg&quot; width=&quot;50%&quot; /&gt;
 &lt;/div&gt;
 </content>
  </entry>
  
  <entry>
    <title>Middleware 2023</title>
-   <link href="http://localhost:4000/2023/12/11/Middleware2023/"/>
-   <updated>2023-12-11T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2023/12/11/Middleware2023</id>
-   <content type="html">&lt;h3&gt;Carole and Yinan presented their works at Middleware 2023 in Bologna (Italy)&lt;/h3&gt;
+   <link href="https://sites.uclouvain.be/2023/12/11/Middleware2023/"/>
+   <updated>2023-12-11T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2023/12/11/Middleware2023</id>
+   <content type="html">&lt;h3&gt;Carole and Yinan presented their works at Middleware 2023 in Bologna, Italy&lt;/h3&gt;
 
 &lt;p&gt;On December 12, 2023, Carole and Yinan presented their works at &lt;a href=&quot;https://middleware-conf.github.io/2023/&quot; target=&quot;_blank&quot;&gt;Middleware 2023&lt;/a&gt; in the Doctoral Symposium track.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/Middleware2023-1.png&quot; style=&quot;height: 250px&quot; /&gt;
-    &lt;img src=&quot;/images/Middleware2023-2.jpg&quot; style=&quot;width: 40%;&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/Middleware2023-1.png&quot; style=&quot;height: 250px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/Middleware2023-2.jpg&quot; style=&quot;width: 40%;&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;The papers presented are &lt;a href=&quot;https://dl.acm.org/doi/abs/10.1145/3626564.3629095&quot; target=&quot;_blank&quot;&gt;Towards the Automatic Adaptation of Stateful Microservices Applications across Edge and Cloud&lt;/a&gt; and &lt;a href=&quot;https://dl.acm.org/doi/abs/10.1145/3626564.3629091&quot; target=&quot;_blank&quot;&gt;Better Orchestration for SLO-Oriented Cross-site Microservices in Multi-tenant Cloud/Edge Continuum&lt;/a&gt;.&lt;/p&gt;
@@ -212,41 +212,41 @@
  
  <entry>
    <title>Middleware 2023</title>
-   <link href="http://localhost:4000/2023/12/11/Middleware2023-accepted/"/>
-   <updated>2023-12-11T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2023/12/11/Middleware2023-accepted</id>
+   <link href="https://sites.uclouvain.be/2023/12/11/Middleware2023-accepted/"/>
+   <updated>2023-12-11T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2023/12/11/Middleware2023-accepted</id>
    <content type="html">&lt;h3&gt;A paper accepted at Middleware 2023&apos;s Doctoral Symposium track&lt;/h3&gt;
 
-&lt;p&gt;In November, Carole and Yinan will present these works in Bologna (Italy).&lt;/p&gt;
+&lt;p&gt;In November, Carole and Yinan will present these works in Bologna, Italy.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>SIESTA 2023</title>
-   <link href="http://localhost:4000/2023/09/11/SIESTA2023/"/>
-   <updated>2023-09-11T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2023/09/11/SIESTA2023</id>
+   <link href="https://sites.uclouvain.be/2023/09/11/SIESTA2023/"/>
+   <updated>2023-09-11T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2023/09/11/SIESTA2023</id>
    <content type="html">&lt;h3&gt;Maxime presented his works at SIESTA 2023 in Lugano (Switzerland)&lt;/h3&gt;
 
 &lt;p&gt;On September 11, 2023, Maxime presented his works at &lt;a href=&quot;https://siesta.si.usi.ch/2023/&quot; target=&quot;_blank&quot;&gt;SIESTA 2023&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/SIESTA2023-1.jpg&quot; width=&quot;50%&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/SIESTA2023-1.jpg&quot; width=&quot;50%&quot; /&gt;
 &lt;/div&gt;
 </content>
  </entry>
  
  <entry>
    <title>VLDB 2023</title>
-   <link href="http://localhost:4000/2023/08/28/VLDB2023/"/>
-   <updated>2023-08-28T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2023/08/28/VLDB2023</id>
+   <link href="https://sites.uclouvain.be/2023/08/28/VLDB2023/"/>
+   <updated>2023-08-28T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2023/08/28/VLDB2023</id>
    <content type="html">&lt;h3&gt;Maxime presented his works at VLDB 2023 in Vancouver (Canada)&lt;/h3&gt;
 
 &lt;p&gt;On August 26, 2023, Maxime presented his works at &lt;a href=&quot;https://vldb.org/2023/&quot; target=&quot;_blank&quot;&gt;VLDB 2023&lt;/a&gt; in the PhD Workshop track.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/VLDB2023-1.jpg&quot; width=&quot;50%&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/VLDB2023-1.jpg&quot; width=&quot;50%&quot; /&gt;
 &lt;/div&gt;
 
 &lt;p&gt;The paper presented is &lt;a href=&quot;https://ceur-ws.org/Vol-3452/paper10.pdf&quot; target=&quot;_blank&quot;&gt;Automated Database Schema Evolution in Microservices&lt;/a&gt;.&lt;/p&gt;
@@ -255,9 +255,9 @@
  
  <entry>
    <title>VLDB 2023</title>
-   <link href="http://localhost:4000/2023/06/14/VLDB2023-accepted/"/>
-   <updated>2023-06-14T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2023/06/14/VLDB2023-accepted</id>
+   <link href="https://sites.uclouvain.be/2023/06/14/VLDB2023-accepted/"/>
+   <updated>2023-06-14T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2023/06/14/VLDB2023-accepted</id>
    <content type="html">&lt;h3&gt;A paper accepted at VLDB 2023&apos;s PhD workshop&lt;/h3&gt;
 
 &lt;p&gt;The paper “Automated Database Schema Evolution in Microservices” has been accepted to &lt;a href=&quot;https://vldb.org/2023/&quot; target=&quot;_blank&quot;&gt;VLDB 2023&lt;/a&gt; in the PhD Workshop track.&lt;/p&gt;
@@ -267,31 +267,31 @@
 &lt;p&gt;Late August, Maxime will present this works in Vancouver (Canada).&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/VLDB2023-2.jpg&quot; width=&quot;50%&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/VLDB2023-2.jpg&quot; width=&quot;50%&quot; /&gt;
 &lt;/div&gt;
 </content>
  </entry>
  
  <entry>
    <title>JCE 2022</title>
-   <link href="http://localhost:4000/2022/12/05/JCE2022/"/>
-   <updated>2022-12-05T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2022/12/05/JCE2022</id>
+   <link href="https://sites.uclouvain.be/2022/12/05/JCE2022/"/>
+   <updated>2022-12-05T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2022/12/05/JCE2022</id>
    <content type="html">&lt;h3&gt;The team at JCE 2022 in Paris&lt;/h3&gt;
 
 &lt;p&gt;Doctoral students took part in the &lt;a href=&quot;https://journeescloud2022.wp.imt.fr/&quot; target=&quot;_blank&quot;&gt;Journées Cloud/Edge 2022&lt;/a&gt; in Paris (France) organized by &lt;a href=&quot;https://www.imt.fr/&quot;&gt;IMT Télécom SudParis and IMT Télécom Paris&lt;/a&gt; on December 5 and 6, 2022.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/JCE2022-1.jpg&quot; width=&quot;50%&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/JCE2022-1.jpg&quot; width=&quot;50%&quot; /&gt;
 &lt;/div&gt;
 </content>
  </entry>
  
  <entry>
    <title>Kick-off</title>
-   <link href="http://localhost:4000/2022/09/04/Kick-off/"/>
-   <updated>2022-09-04T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2022/09/04/Kick-off</id>
+   <link href="https://sites.uclouvain.be/2022/09/04/Kick-off/"/>
+   <updated>2022-09-04T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2022/09/04/Kick-off</id>
    <content type="html">&lt;h3&gt;Kick-off in Namur&lt;/h3&gt;
 
 &lt;p&gt;The teams met in Namur on September 4, 2022, to launch the project.&lt;/p&gt;
