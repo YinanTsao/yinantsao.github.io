@@ -43,7 +43,7 @@ The overall vision of RAINDROP is illustrated by the figure below.
 
 <br/><br />
 
-<img src="{{ site.baseurl }}/images/raindrop.png" />
+<img src="{{ site.baseurl }}/images/RAINDROP.png" />
 
 </div>
 

@@ -4,7 +4,7 @@
  <title>Project RAINDROP</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-07-08T16:43:38+02:00</updated>
+ <updated>2025-07-08T16:49:57+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Yinan CAO</name>
@@ -71,7 +71,7 @@ heat treemaps is the result of a collaboration with Maxime De Rycke, a master’
    <id>http://localhost:4000/2025/05/18/CCGrid2025</id>
    <content type="html">&lt;h3&gt;Yinan presented the paper at CCGrid 2025&lt;/h3&gt;
 
-&lt;p&gt;Yinan presented the paper “LASSY: a Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum” has been accepted at &lt;a href=&quot;https://site.uit.no/ccgrid2025/&quot; target=&quot;_blank&quot;&gt;CCGrid 2025&lt;/a&gt; on May 21st 2025 in Tromso, Norway.&lt;/p&gt;
+&lt;p&gt;Yinan presented the paper “LASSY: a Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum” at &lt;a href=&quot;https://site.uit.no/ccgrid2025/&quot; target=&quot;_blank&quot;&gt;CCGrid 2025&lt;/a&gt; on May 21st 2025 in Tromso, Norway.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
     &lt;img src=&quot;/images/CCGRID-3.jpg&quot; height=&quot;350px&quot; /&gt;
@@ -250,7 +250,7 @@ heat treemaps is the result of a collaboration with Maxime De Rycke, a master’
    <link href="http://localhost:4000/2023/12/11/Middleware2023/"/>
    <updated>2023-12-11T00:00:00+01:00</updated>
    <id>http://localhost:4000/2023/12/11/Middleware2023</id>
-   <content type="html">&lt;h3&gt;Carole and Yinan presented their works at Middleware 2023 in Bologna (Italy)&lt;/h3&gt;
+   <content type="html">&lt;h3&gt;Carole and Yinan presented their works at Middleware 2023 in Bologna, Italy&lt;/h3&gt;
 
 &lt;p&gt;On December 12, 2023, Carole and Yinan presented their works at &lt;a href=&quot;https://middleware-conf.github.io/2023/&quot; target=&quot;_blank&quot;&gt;Middleware 2023&lt;/a&gt; in the Doctoral Symposium track.&lt;/p&gt;
 
@@ -270,7 +270,7 @@ heat treemaps is the result of a collaboration with Maxime De Rycke, a master’
    <id>http://localhost:4000/2023/12/11/Middleware2023-accepted</id>
    <content type="html">&lt;h3&gt;A paper accepted at Middleware 2023&apos;s Doctoral Symposium track&lt;/h3&gt;
 
-&lt;p&gt;In November, Carole and Yinan will present these works in Bologna (Italy).&lt;/p&gt;
+&lt;p&gt;In November, Carole and Yinan will present these works in Bologna, Italy.&lt;/p&gt;
 </content>
  </entry>
  
