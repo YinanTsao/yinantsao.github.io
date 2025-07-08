@@ -4,13 +4,65 @@
  <title>Project RAINDROP</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-05-31T16:23:13+02:00</updated>
+ <updated>2025-07-08T16:43:38+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Yinan CAO</name>
    <email>yinan.cao@uclouvain.be</email>
  </author>
 
+ 
+ <entry>
+   <title>VISSOFT/ICSME 2025</title>
+   <link href="http://localhost:4000/2025/07/07/VISSOFTICSME2025-accepted/"/>
+   <updated>2025-07-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2025/07/07/VISSOFTICSME2025-accepted</id>
+   <content type="html">&lt;h3&gt;3 papers accepted at VISSOFT/ICSME 2025&lt;/h3&gt;
+
+&lt;p&gt;The papers “Visualizing and Exploring Data Access in Microservices Using Interactive Treemaps” and
+“Visualizing Data Access Traces in Microservices Using Animated Heat Treemaps” have been accepted to 
+&lt;a href=&quot;https://vissoft.io/2025/&quot; target=&quot;_blank&quot;&gt;VISSOFT 2025&lt;/a&gt;, respectively in the main and the NIER tracks.&lt;/p&gt;
+
+&lt;p&gt;For its part, the paper “DENIM: Exploring Data Access in Microservices” has been accepted to
+&lt;a href=&quot;https://conf.researchr.org/home/icsme-2025&quot; target=&quot;_blank&quot;&gt;ICSME 2025&lt;/a&gt; in the Tool Demo track.&lt;/p&gt;
+
+&lt;p&gt;In these papers, we present visualization approaches and a tool to support the understanding of data access in 
+microservices architectures using interactive treemaps and heat treemaps.&lt;/p&gt;
+
+&lt;p&gt;The interactive treemap contributes in representing the data access code fragment of a microservice architecture in a 
+compact and efficient 2D space. It helps in identifying technology breakdown patterns, analyzing the impact of data 
+concept changes, comparing system versions to track evolution or refactoring scenarios, and highlighting particular 
+code patterns. This approach can be used to aid in decision-making for refactoring and evolution 
+strategies. We evaluated that approach on 10 non-trivial systems with 6 professional developers within 4 organizations 
+and obtained encouraging feedbacks that we discuss in the paper.&lt;/p&gt;
+
+&lt;p&gt;The heat treemap aims to extend, as an overlay, the interactive treemap with dynamic instrumentation traces. The 
+approach replays and draws the sequence of the calls using animations. It also colours the hotspots within the data 
+access code fragments in order to highlight the hotspots. Through an efficient UI, the traces can be further inspected.
+This promising approach brings more concreteness to the decision-making process when it comes to evolution and 
+refactoring. We evaluated our approach on a case study: Overleaf. In a 6-days scenario, we collected more 
+than 140K traces to visualize.&lt;/p&gt;
+
+&lt;p&gt;The tool is the materialized artifact resulting of this research.&lt;/p&gt;
+
+&lt;p&gt;Maxime will present these papers with his co-authors early September 2025 in Auckland (New-Zeland).&lt;/p&gt;
+
+&lt;p&gt;The papers have been co-authored with researchers of the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL 
+research group&lt;/a&gt; at &lt;a href=&quot;_blank&quot;&gt;Università della Svizzera italiana (USI)&lt;/a&gt; in 
+Lugano (Switzerland) where Maxime stayed 6 months. This collaboration is supported by the &lt;a href=&quot;https://www.sofinaboel.be/&quot; target=&quot;_blank&quot;&gt;SofinaBoël Fund for Education and Talent&lt;/a&gt;. The paper about the 
+heat treemaps is the result of a collaboration with Maxime De Rycke, a master’s student from the University of Namur.&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+    &lt;img src=&quot;/images/VISSOFTICSME-1.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+    &lt;img src=&quot;/images/VISSOFTICSME-2.png&quot; width=&quot;50%&quot; /&gt;
+&lt;/div&gt;
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+    &lt;img src=&quot;/images/VISSOFTICSME-3.png&quot; width=&quot;100%&quot; /&gt;
+&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>CCGrid 2025</title>
@@ -114,7 +166,8 @@
 &lt;p&gt;Maxime will present this paper early April 2025 in Odense (Danemark).&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
-    &lt;img src=&quot;/images/ICSA2025-3.jpg&quot; width=&quot;50%&quot; /&gt;
+    &lt;img src=&quot;/images/ICSA2025-1.png&quot; width=&quot;30%&quot; /&gt;
+    &lt;img src=&quot;/images/ICSA2025-2.png&quot; width=&quot;30%&quot; /&gt;
 &lt;/div&gt;
 </content>
  </entry>
