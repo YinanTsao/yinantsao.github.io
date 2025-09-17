@@ -4,13 +4,36 @@
  <title>Project RAINDROP</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-07-08T16:49:57+02:00</updated>
+ <updated>2025-09-17T11:39:06+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Yinan CAO</name>
    <email>yinan.cao@uclouvain.be</email>
  </author>
 
+ 
+ <entry>
+   <title>VISSOFT/ICSME 2025</title>
+   <link href="http://localhost:4000/2025/09/13/VISSOFTICSME2025/"/>
+   <updated>2025-09-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2025/09/13/VISSOFTICSME2025</id>
+   <content type="html">&lt;h3&gt;Maxime presented at VISSOFT/ICSME 2025&lt;/h3&gt;
+
+&lt;p&gt;On September 8th and 10th, 2025, Maxime presented his works at &lt;a href=&quot;https://vissoft.io/2025/&quot; target=&quot;_blank&quot;&gt;VISSOFT 2025&lt;/a&gt; and at &lt;a href=&quot;https://conf.researchr.org/home/icsme-2025&quot; target=&quot;_blank&quot;&gt;ICSME 2025&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+    &lt;img src=&quot;/images/VISSOFTICSME-1.jpg&quot; height=&quot;350px&quot; style=&quot;padding:10px;&quot; /&gt;
+    &lt;br /&gt;
+    &lt;img src=&quot;/images/VISSOFTICSME-3.jpg&quot; height=&quot;350px&quot; style=&quot;padding:10px;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+    &lt;img src=&quot;/images/VISSOFTICSME-2.jpg&quot; width=&quot;700px&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The papers presented are &lt;a href=&quot;https://researchportal.unamur.be/fr/publications/visualizing-and-exploring-data-access-in-microservices-using-inte&quot; target=&quot;_blank&quot;&gt;Visualizing and Exploring Data Access in Microservices Using Interactive Treemaps&lt;/a&gt;, &lt;a href=&quot;https://researchportal.unamur.be/fr/publications/denim-exploring-data-access-in-microservices&quot; target=&quot;_blank&quot;&gt; DENIM: Exploring Data Access in Microservices&lt;/a&gt;, and &lt;a href=&quot;https://researchportal.unamur.be/fr/publications/visualizing-data-access-traces-in-microservices-using-animated-he&quot; target=&quot;_blank&quot;&gt;Visualizing Data Access Traces in Microservices Using Animated Heat Treemaps&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>VISSOFT/ICSME 2025</title>
@@ -87,7 +110,7 @@ heat treemaps is the result of a collaboration with Maxime De Rycke, a master’
    <id>http://localhost:4000/2025/04/27/ICPC2025</id>
    <content type="html">&lt;h3&gt;Maxime presented his works at ICPC 2025 in Ottawa (Canada)&lt;/h3&gt;
 
-&lt;p&gt;On April 2nd, 2025, Maxime presented his works at &lt;a href=&quot;https://conf.researchr.org/home/icpc-2025&quot; target=&quot;_blank&quot;&gt;ICPC 2025&lt;/a&gt; in the ERA track.&lt;/p&gt;
+&lt;p&gt;On April 27th, 2025, Maxime presented his works at &lt;a href=&quot;https://conf.researchr.org/home/icpc-2025&quot; target=&quot;_blank&quot;&gt;ICPC 2025&lt;/a&gt; in the ERA track.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
     &lt;img src=&quot;/images/ICPC2025-3.jpg&quot; height=&quot;350px&quot; /&gt;
