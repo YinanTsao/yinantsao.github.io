@@ -27,7 +27,7 @@ approach replays and draws the sequence of the calls using animations. It also c
 access code fragments in order to highlight the hotspots. Through an efficient UI, the traces can be further inspected.
 This promising approach brings more concreteness to the decision-making process when it comes to evolution and 
 refactoring. We evaluated our approach on a case study: Overleaf. In a 6-days scenario, we collected more 
-than 140K traces to visualize.
+than 109K traces to visualize.
 
 The tool is the materialized artifact resulting of this research.
 
