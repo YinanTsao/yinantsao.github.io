@@ -34,7 +34,7 @@ The tool is the materialized artifact resulting of this research.
 Maxime will present these papers with his co-authors early September 2025 in Auckland (New-Zeland).
 
 The papers have been co-authored with researchers of the <a href="https://reveal.si.usi.ch/" target="_blank">REVEAL 
-research group</a> at <a href="https://www.usi.ch/en" href="_blank">Università della Svizzera italiana (USI)</a> in 
+research group</a> at <a href="https://www.usi.ch/en" target="_blank">Università della Svizzera italiana (USI)</a> in 
 Lugano (Switzerland) where Maxime stayed 6 months. This collaboration is supported by the <a 
 href="https://www.sofinaboel.be/" target="_blank">SofinaBoël Fund for Education and Talent</a>. The paper about the 
 heat treemaps is the result of a collaboration with Maxime De Rycke, a master's student from the University of Namur.
