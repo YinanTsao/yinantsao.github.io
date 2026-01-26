@@ -58,7 +58,7 @@ title: Team
 
 <br/>
 
-**<img src="{{ site.baseurl }}/images/patient.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Patient Ntumba Wa Ntumba**
+**<img src="{{ site.baseurl }}/images/patient.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Patient Ntumba Wa Ntumba (CNAM)**
 <h4>Focus on  scheduling AI application across edge resources, optimizing SLOs and applying priority-aware degradation on AI application.</h4>
 <h4>Visiting Researcher from CNAM, France (Nov 2025 - Jan 2026)</h4>
 - <a href="https://cv.hal.science/pntumbawantumba?langChosen=fr" target="_blank">Homepage</a>
