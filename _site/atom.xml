@@ -4,13 +4,71 @@
  <title>Project RAINDROP</title>
  <link href="https://sites.uclouvain.be/raindrop/atom.xml" rel="self"/>
  <link href="https://sites.uclouvain.be/raindrop/"/>
- <updated>2025-09-22T15:31:41+00:00</updated>
+ <updated>2026-01-26T14:43:53+00:00</updated>
  <id>https://sites.uclouvain.be</id>
  <author>
    <name>Yinan CAO</name>
    <email>yinan.cao@uclouvain.be</email>
  </author>
 
+ 
+ <entry>
+   <title>MSR 2026</title>
+   <link href="https://sites.uclouvain.be/2026/01/05/MSR2026-accepted/"/>
+   <updated>2026-01-05T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2026/01/05/MSR2026-accepted</id>
+   <content type="html">&lt;h3&gt;A paper accepted at MSR 2026&lt;/h3&gt;
+
+&lt;p&gt;The paper “PoolinGH: Fast, Efficient, and Robust GitHub Repository Mining” has been accepted to 
+&lt;a href=&quot;https://2026.msrconf.org/track/msr-2026-data-and-tool-showcase-track&quot; target=&quot;_blank&quot;&gt;MSR 2026&lt;/a&gt; in the Data and Tool Showcase track.&lt;/p&gt;
+
+&lt;p&gt;In this paper, we present &lt;a href=&quot;https://www.npmjs.com/package/poolingh&quot;&gt;PoolinGH&lt;/a&gt;, a lightweight, open-source, easy-to-use library, aimed at supporting researchers. It is designed to accelerate and ensure efficient and robust mining on the GitHub REST API while taking full advantage of its capabilities. It enables automatic pooling of multiple access tokens and parallelizes queries. It optimizes queues and regulates network and API usage for respecting GitHub’s limits and best practices. Error management and recovery or pruning in case of deadlocks are ensured. Search coverage maximization and progress monitoring are among the most useful features to avoid reinventing the wheel. We also provide solution templates that meet common needs for specific extensions of such library.&lt;/p&gt;
+
+&lt;p&gt;Maxime will present this paper with his co-authors mid-April 2026 in Rio de Janeiro (Brazil).&lt;/p&gt;
+
+&lt;p&gt;The paper was co-authored with researchers from the &lt;a href=&quot;https://www.uzh.ch/en.html&quot;&gt;University of Zurich (Switzerland)&lt;/a&gt; and from the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL research group&lt;/a&gt; of the &lt;a href=&quot;https://www.usi.ch/en&quot; target=&quot;_blank&quot;&gt;Università della Svizzera italiana (USI)&lt;/a&gt; in Lugano (Switzerland). This collaboration is supported by the &lt;a href=&quot;https://www.sofinaboel.be/&quot; target=&quot;_blank&quot;&gt;SofinaBoël Fund for Education and Talent&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td&gt;📦&lt;/td&gt;
+        &lt;td&gt;npm package&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;https://www.npmjs.com/package/poolingh&quot; target=&quot;_blank&quot;&gt;https://www.npmjs.com/package/poolingh&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;👨‍🏫&lt;/td&gt;
+        &lt;td&gt;Templates &amp;amp; Examples&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;https://github.com/PoolinGH/poolingh-examples&quot; target=&quot;_blank&quot;&gt;https://github.com/PoolinGH/poolingh-examples&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;👨‍💻&lt;/td&gt;
+        &lt;td&gt;Source code&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;https://github.com/PoolinGH/poolingh&quot; target=&quot;_blank&quot;&gt;https://github.com/PoolinGH/poolingh&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+        &lt;tr&gt;
+        &lt;td&gt;🗃️&lt;/td&gt;
+        &lt;td&gt;Archive&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;https://zenodo.org/records/17574294&quot; target=&quot;_blank&quot;&gt;https://zenodo.org/records/17574294&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;div style=&quot;display: flex; justify-content: end;&quot;&gt;
+    &lt;a href=&quot;https://www.npmjs.com/package/poolingh&quot; target=&quot;_blank&quot;&gt;
+        &lt;img src=&quot;/raindrop/images/MSR2026-1.png&quot; width=&quot;25%&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Patient's visit to UCLouvain</title>
+   <link href="https://sites.uclouvain.be/2025/11/03/Patientvisiting/"/>
+   <updated>2025-11-03T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2025/11/03/Patientvisiting</id>
+   <content type="html">&lt;h3&gt;CNAM Researcher Patient Ntumba Wa Ntumba&apos;s 3-month visit to RAINDROP (UCLouvain)&lt;/h3&gt;
+
+&lt;p&gt;We are pleased to announce that Dr. Patient Ntumba Wa Ntumba, a researcher from CNAM, France, is visiting our RAINDROP research group at UCLouvain for a period of three months, from November 2025 to January 2026. During his stay, Patient will collaborate closely with our team at UCLouvain on AI workload scheduling and adaptation on the edge.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>VISSOFT/ICSME 2025</title>
@@ -64,14 +122,14 @@ approach replays and draws the sequence of the calls using animations. It also c
 access code fragments in order to highlight the hotspots. Through an efficient UI, the traces can be further inspected.
 This promising approach brings more concreteness to the decision-making process when it comes to evolution and 
 refactoring. We evaluated our approach on a case study: Overleaf. In a 6-days scenario, we collected more 
-than 140K traces to visualize.&lt;/p&gt;
+than 109K traces to visualize.&lt;/p&gt;
 
 &lt;p&gt;The tool is the materialized artifact resulting of this research.&lt;/p&gt;
 
 &lt;p&gt;Maxime will present these papers with his co-authors early September 2025 in Auckland (New-Zeland).&lt;/p&gt;
 
 &lt;p&gt;The papers have been co-authored with researchers of the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL 
-research group&lt;/a&gt; at &lt;a href=&quot;_blank&quot;&gt;Università della Svizzera italiana (USI)&lt;/a&gt; in 
+research group&lt;/a&gt; at &lt;a href=&quot;https://www.usi.ch/en&quot; target=&quot;_blank&quot;&gt;Università della Svizzera italiana (USI)&lt;/a&gt; in 
 Lugano (Switzerland) where Maxime stayed 6 months. This collaboration is supported by the &lt;a href=&quot;https://www.sofinaboel.be/&quot; target=&quot;_blank&quot;&gt;SofinaBoël Fund for Education and Talent&lt;/a&gt;. The paper about the 
 heat treemaps is the result of a collaboration with Maxime De Rycke, a master’s student from the University of Namur.&lt;/p&gt;
 
@@ -208,7 +266,7 @@ heat treemaps is the result of a collaboration with Maxime De Rycke, a master’
 
 &lt;p&gt;Maxime will present this paper late April 2025 in Ottawa (Canada).&lt;/p&gt;
 
-&lt;p&gt;This paper has been co-authored with researchers of the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL research group&lt;/a&gt; at &lt;a href=&quot;_blank&quot;&gt;Università della Svizzera italiana (USI)&lt;/a&gt; in Lugano (Switzerland) where Maxime is doing a research stay. This collaboration is supported by the &lt;a href=&quot;https://www.sofinaboel.be/&quot; target=&quot;_blank&quot;&gt;SofinaBoël Fund for Education and Talent&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This paper has been co-authored with researchers of the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL research group&lt;/a&gt; at &lt;a href=&quot;https://www.usi.ch/en&quot; target=&quot;_blank&quot;&gt;Università della Svizzera italiana (USI)&lt;/a&gt; in Lugano (Switzerland) where Maxime is doing a research stay. This collaboration is supported by the &lt;a href=&quot;https://www.sofinaboel.be/&quot; target=&quot;_blank&quot;&gt;SofinaBoël Fund for Education and Talent&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
     &lt;img src=&quot;/raindrop/images/ICPC2025-1.png&quot; height=&quot;350px&quot; /&gt;
