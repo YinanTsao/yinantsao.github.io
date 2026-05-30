@@ -4,13 +4,30 @@
  <title>Project RAINDROP</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2026-01-21T20:43:02+01:00</updated>
+ <updated>2026-05-30T16:24:23+02:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Yinan CAO</name>
    <email>yinan.cao@uclouvain.be</email>
  </author>
 
+ 
+ <entry>
+   <title>MSR 2026</title>
+   <link href="http://localhost:4000/2026/04/13/MSR2026/"/>
+   <updated>2026-04-13T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2026/04/13/MSR2026</id>
+   <content type="html">&lt;h3&gt;Maxime presented at VISSOFT/ICSME 2025&lt;/h3&gt;
+
+&lt;p&gt;On April 13th, 2026, Maxime presented his works at &lt;a href=&quot;https://2026.msrconf.org/track/msr-2026-data-and-tool-showcase-track&quot; target=&quot;_blank&quot;&gt;MSR 2026&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+    &lt;img src=&quot;/images/MSR2026-2.jpg&quot; width=&quot;500px&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The paper &lt;a href=&quot;https://researchportal.unamur.be/fr/publications/poolingh-fast-efficient-and-robust-github-repository-mining/&quot; target=&quot;_blank&quot;&gt;PoolinGH: Fast, Efficient, and Robust GitHub Repository Mining&lt;/a&gt;, approaches &lt;a href=&quot;https://www.npmjs.com/package/poolingh&quot; target=&quot;_blank&quot;&gt;PoolinGH&lt;/a&gt;, a lightweight, open-source, easy-to-use library, aimed at supporting researchers.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>MSR 2026</title>
@@ -22,11 +39,11 @@
 &lt;p&gt;The paper “PoolinGH: Fast, Efficient, and Robust GitHub Repository Mining” has been accepted to 
 &lt;a href=&quot;https://2026.msrconf.org/track/msr-2026-data-and-tool-showcase-track&quot; target=&quot;_blank&quot;&gt;MSR 2026&lt;/a&gt; in the Data and Tool Showcase track.&lt;/p&gt;
 
-&lt;p&gt;In this paper, we present &lt;a href=&quot;https://www.npmjs.com/package/poolingh&quot;&gt;PoolinGH&lt;/a&gt;, a lightweight, open-source, easy-to-use library, aimed at supporting researchers. It is designed to accelerate and ensure efficient and robust mining on the GitHub REST API while taking full advantage of its capabilities. It enables automatic pooling of multiple access tokens and parallelizes queries. It optimizes queues and regulates network and API usage for respecting GitHub’s limits and best practices. Error management and recovery or pruning in case of deadlocks are ensured. Search coverage maximization and progress monitoring are among the most useful features to avoid reinventing the wheel. We also provide solution templates that meet common needs for specific extensions of such library.&lt;/p&gt;
+&lt;p&gt;In this paper, we present &lt;a href=&quot;https://www.npmjs.com/package/poolingh&quot; target=&quot;_blank&quot;&gt;PoolinGH&lt;/a&gt;, a lightweight, open-source, easy-to-use library, aimed at supporting researchers. It is designed to accelerate and ensure efficient and robust mining on the GitHub REST API while taking full advantage of its capabilities. It enables automatic pooling of multiple access tokens and parallelizes queries. It optimizes queues and regulates network and API usage for respecting GitHub’s limits and best practices. Error management and recovery or pruning in case of deadlocks are ensured. Search coverage maximization and progress monitoring are among the most useful features to avoid reinventing the wheel. We also provide solution templates that meet common needs for specific extensions of such library.&lt;/p&gt;
 
 &lt;p&gt;Maxime will present this paper with his co-authors mid-April 2026 in Rio de Janeiro (Brazil).&lt;/p&gt;
 
-&lt;p&gt;The paper was co-authored with researchers from the &lt;a href=&quot;https://www.uzh.ch/en.html&quot;&gt;University of Zurich (Switzerland)&lt;/a&gt; and from the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL research group&lt;/a&gt; of the &lt;a href=&quot;https://www.usi.ch/en&quot; target=&quot;_blank&quot;&gt;Università della Svizzera italiana (USI)&lt;/a&gt; in Lugano (Switzerland). This collaboration is supported by the &lt;a href=&quot;https://www.sofinaboel.be/&quot; target=&quot;_blank&quot;&gt;SofinaBoël Fund for Education and Talent&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The paper was co-authored with researchers from the &lt;a href=&quot;https://www.uzh.ch/en.html&quot; target=&quot;_blank&quot;&gt;University of Zurich (Switzerland)&lt;/a&gt; and from the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL research group&lt;/a&gt; of the &lt;a href=&quot;https://www.usi.ch/en&quot; target=&quot;_blank&quot;&gt;Università della Svizzera italiana (USI)&lt;/a&gt; in Lugano (Switzerland). This collaboration is supported by the &lt;a href=&quot;https://www.sofinaboel.be/&quot; target=&quot;_blank&quot;&gt;SofinaBoël Fund for Education and Talent&lt;/a&gt;.&lt;/p&gt;
 
 &lt;table&gt;
     &lt;tr&gt;
@@ -115,7 +132,7 @@ than 109K traces to visualize.&lt;/p&gt;
 
 &lt;p&gt;The tool is the materialized artifact resulting of this research.&lt;/p&gt;
 
-&lt;p&gt;Maxime will present these papers with his co-authors early September 2025 in Auckland (New-Zeland).&lt;/p&gt;
+&lt;p&gt;Maxime will present these papers with his co-authors early September 2025 in Auckland (New Zealand).&lt;/p&gt;
 
 &lt;p&gt;The papers have been co-authored with researchers of the &lt;a href=&quot;https://reveal.si.usi.ch/&quot; target=&quot;_blank&quot;&gt;REVEAL 
 research group&lt;/a&gt; at &lt;a href=&quot;https://www.usi.ch/en&quot; target=&quot;_blank&quot;&gt;Università della Svizzera italiana (USI)&lt;/a&gt; in 
