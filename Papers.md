@@ -10,7 +10,7 @@ title: Papers
 
 - <a href="https://ieeexplore.ieee.org/document/11175677" target="_blank">André, M., Raglianti, M., Cleve, A., & Lanza, M., (2025, September). Visualizing and Exploring Data Access in Microservices Using Interactive Treemaps. In Proceedings of the 13th IEEE Working Conference on Software Visualization (VISSOFT 2025) (IEEE).</a>
 
--  Cao, Y., Rivière, E., &  Sadre, R., (2025, May). LASSY: a Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum (CCGrid 2025) (In press).
+- <a href="https://ieeexplore.ieee.org/abstract/document/11044813" target="_blank">Cao, Y., Rivière, E., &  Sadre, R., (2025, May). LASSY: a Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum (CCGrid 2025).
 
 -  <a href="https://researchportal.unamur.be/fr/publications/data-access-centered-understanding-of-microservices-architectures" target="_blank">André, M., Rivière, E., &  Cleve, A., (2025, April). Data Access-centered Understanding of Microservices Architectures. In Proceedings of the 22nd IEEE International Conference on Software Architecture (ICSA 2025): New and Emerging Ideas (IEEE).</a>
 

@@ -78,7 +78,7 @@ The project is also supported by the <a href="https://www.sofinaboel.be/accueil/
 <div style="text-align: justify;">
   <ul>
     <li>
-      LASSY: a Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum (CCGrid 2025).
+      <a href="https://ieeexplore.ieee.org/abstract/document/11044813" target="_blank">LASSY: a Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum (CCGrid 2025).</a>
     </li>
     <li>
       <a href="https://researchportal.unamur.be/fr/publications/data-access-centered-understanding-of-microservices-architectures" target="_blank">Data Access-centered Understanding of Microservices Architectures (ICSA 2025)</a>

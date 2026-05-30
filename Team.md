@@ -58,6 +58,17 @@ title: Team
 
 <br/>
 
+**<img src="{{ site.baseurl }}/images/patient.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Patient Ntumba Wa Ntumba (CNAM)**
+<h4>Focus on  scheduling AI application across edge resources, optimizing SLOs and applying priority-aware degradation on AI application.</h4>
+<h4>Visiting Researcher from CNAM, France (Nov 2025 - Jan 2026)</h4>
+- <a href="https://cv.hal.science/pntumbawantumba?langChosen=fr" target="_blank">Homepage</a>
+- <a href="https://scholar.google.com/citations?user=gRrqPt4AAAAJ&hl=en&oi=ao" target="_blank">Publications (Google Scholar)</a>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 **<img src="{{ site.baseurl }}/images/carole.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Carole Djeumo Noucti (UCLouvain)**
 <h4>Focusing on runtime placement and adaptation of microservices applications across the edge-cloud continuum.</h4>
 <br/>
