@@ -31,7 +31,7 @@ than 109K traces to visualize.
 
 The tool is the materialized artifact resulting of this research.
 
-Maxime will present these papers with his co-authors early September 2025 in Auckland (New-Zeland).
+Maxime will present these papers with his co-authors early September 2025 in Auckland (New Zealand).
 
 The papers have been co-authored with researchers of the <a href="https://reveal.si.usi.ch/" target="_blank">REVEAL 
 research group</a> at <a href="https://www.usi.ch/en" target="_blank">Università della Svizzera italiana (USI)</a> in 
