@@ -139,6 +139,67 @@
   
   <div class="post">
     <h2 class="post-title">
+      <a href="https://sites.uclouvain.be/raindrop/2026/07/03/SRDS2026-accepted/">
+        SRDS 2026
+      </a>
+    </h2>
+
+    <span class="post-date">03 Jul 2026</span>
+
+    <h3>A paper accepted at SRDS 2026</h3>
+
+<p>The paper “Cerberus: Latency-Aware Scheduling with Graceful Degradation for Constrained Edge Infrastructures” has been accepted by <a href="https://srds-conference.org/" target="_blank">SRDS 2026</a> as a regular paper.</p>
+
+<p>We extend the scheduling methodology of Scylla to handle multi-application concurrency under resource scarcity on edge clusters through the development of the <a href="https://github.com/YinanTsao/Cerberus-demo">Cerberus</a> global scheduling model. Recognizing that edge resources are finite and may be insufficient to simultaneously satisfy all application SLOs under peak demand, Cerberus extends latency-aware scheduling with a graceful degradation mechanism that avoids the service disruptions caused by eviction-based strategies. Instead of dropping low-criticality applications, Cerberus introduces the concept of a Service Level Threshold (SLT), which bounds the maximum acceptable performance degradation for each application, and a priority-aware degradation algorithm that progressively relaxes the latency bounds of low-criticality applications in controlled steps until a feasible placement is found, while preserving strict SLO compliance for high-criticality ones. This ensures that all applications remain operational under resource scarcity, with degradation that is predictable, minimal, and proportional to application criticality.</p>
+
+<p>Yinan will present the paper during the conference on September 23rd 2026 in Roma, Italy.</p>
+
+
+  </div>
+  
+  <div class="post">
+    <h2 class="post-title">
+      <a href="https://sites.uclouvain.be/raindrop/2026/07/02/IWQoS2026/">
+        IWQoS 2026
+      </a>
+    </h2>
+
+    <span class="post-date">02 Jul 2026</span>
+
+    <h3>Yinan presented the paper at IWQoS 2026</h3>
+
+<p>Yinan presented the paper “Scylla: Scheduling Multiple Latency-Sensitive Applications in the Edge-Cloud Continuum” at <a href="https://iwqos2026.ieee-iwqos.org/" target="_blank">IWQoS 2026</a> on July 2nd 2026 in Istanbul, Turkey.</p>
+
+<div style="display: flex; justify-content: space-around;">
+    <img src="/raindrop/images/iwqos_1.png" height="350px" />
+    <img src="/raindrop/images/iwqos_2.jpeg" height="350px" />
+    <img src="/raindrop/images/iwqos_3.jpeg" height="350px" />
+</div>
+
+  </div>
+  
+  <div class="post">
+    <h2 class="post-title">
+      <a href="https://sites.uclouvain.be/raindrop/2026/04/30/IWQoS2026-accepted-copy/">
+        IWQoS 2026
+      </a>
+    </h2>
+
+    <span class="post-date">30 Apr 2026</span>
+
+    <h3>A paper accepted at IWQoS 2026</h3>
+
+<p>The paper “Scylla: Scheduling Multiple Latency-Sensitive Applications in the Edge-Cloud Continuum” has been accepted by <a href="https://iwqos2026.ieee-iwqos.org/" target="_blank">IWQoS 2026</a> as a regular paper in the Edge-Cloud Resource Allocation track.</p>
+
+<p>We extend the scheduling methodology of LASSY to handle multi-application concurrency through the development of the <a href="https://github.com/YinanTsao/Scylla">Scylla</a> global scheduling model. Recognizing that edge nodes are rarely dedicated to a single task, Scylla generalizes the single-application formulation to jointly schedule multiple co-located applications competing for shared resources across the edge-cloud continuum, mitigating the “Noisy Neighbor” effect through a holistic deployment plan that ensures all applications meet their respective SLOs without mutual performance interference. As the joint optimization of multiple applications causes the problem scale and computation time to grow rapidly, we further introduce the Layered Permutation Search (LPS) heuristic, which decomposes the global problem into a sequence of single-application problems and explores application orderings at controllable depth, achieving near-optimal placement plans within practical time limits even for large numbers of applications.</p>
+
+<p>Yinan will present the paper during the conference on July 2 2026 in Istanbul, Turkey.</p>
+
+
+  </div>
+  
+  <div class="post">
+    <h2 class="post-title">
       <a href="https://sites.uclouvain.be/raindrop/2026/01/05/MSR2026-accepted/">
         MSR 2026
       </a>
@@ -200,109 +261,6 @@
     <h3>CNAM Researcher Patient Ntumba Wa Ntumba's 3-month visit to RAINDROP (UCLouvain)</h3>
 
 <p>We are pleased to announce that Dr. Patient Ntumba Wa Ntumba, a researcher from CNAM, France, is visiting our RAINDROP research group at UCLouvain for a period of three months, from November 2025 to January 2026. During his stay, Patient will collaborate closely with our team at UCLouvain on AI workload scheduling and adaptation on the edge.</p>
-
-  </div>
-  
-  <div class="post">
-    <h2 class="post-title">
-      <a href="https://sites.uclouvain.be/raindrop/2025/09/13/VISSOFTICSME2025/">
-        VISSOFT/ICSME 2025
-      </a>
-    </h2>
-
-    <span class="post-date">13 Sep 2025</span>
-
-    <h3>Maxime presented at VISSOFT/ICSME 2025</h3>
-
-<p>On September 8th and 10th, 2025, Maxime presented his works at <a href="https://vissoft.io/2025/" target="_blank">VISSOFT 2025</a> and at <a href="https://conf.researchr.org/home/icsme-2025" target="_blank">ICSME 2025</a>.</p>
-
-<div style="display: flex; justify-content: center;">
-    <img src="/raindrop/images/VISSOFTICSME-1.jpg" height="350px" style="padding:10px;" />
-    <br />
-    <img src="/raindrop/images/VISSOFTICSME-3.jpg" height="350px" style="padding:10px;" />
-</div>
-
-<div style="display: flex; justify-content: space-around;">
-    <img src="/raindrop/images/VISSOFTICSME-2.jpg" width="700px" />
-</div>
-
-<p>The papers presented are <a href="https://researchportal.unamur.be/fr/publications/visualizing-and-exploring-data-access-in-microservices-using-inte" target="_blank">Visualizing and Exploring Data Access in Microservices Using Interactive Treemaps</a>, <a href="https://researchportal.unamur.be/fr/publications/denim-exploring-data-access-in-microservices" target="_blank"> DENIM: Exploring Data Access in Microservices</a>, and <a href="https://researchportal.unamur.be/fr/publications/visualizing-data-access-traces-in-microservices-using-animated-he" target="_blank">Visualizing Data Access Traces in Microservices Using Animated Heat Treemaps</a></p>
-
-  </div>
-  
-  <div class="post">
-    <h2 class="post-title">
-      <a href="https://sites.uclouvain.be/raindrop/2025/07/07/VISSOFTICSME2025-accepted/">
-        VISSOFT/ICSME 2025
-      </a>
-    </h2>
-
-    <span class="post-date">07 Jul 2025</span>
-
-    <h3>3 papers accepted at VISSOFT/ICSME 2025</h3>
-
-<p>The papers “Visualizing and Exploring Data Access in Microservices Using Interactive Treemaps” and
-“Visualizing Data Access Traces in Microservices Using Animated Heat Treemaps” have been accepted to 
-<a href="https://vissoft.io/2025/" target="_blank">VISSOFT 2025</a>, respectively in the main and the NIER tracks.</p>
-
-<p>For its part, the paper “DENIM: Exploring Data Access in Microservices” has been accepted to
-<a href="https://conf.researchr.org/home/icsme-2025" target="_blank">ICSME 2025</a> in the Tool Demo track.</p>
-
-<p>In these papers, we present visualization approaches and a tool to support the understanding of data access in 
-microservices architectures using interactive treemaps and heat treemaps.</p>
-
-<p>The interactive treemap contributes in representing the data access code fragment of a microservice architecture in a 
-compact and efficient 2D space. It helps in identifying technology breakdown patterns, analyzing the impact of data 
-concept changes, comparing system versions to track evolution or refactoring scenarios, and highlighting particular 
-code patterns. This approach can be used to aid in decision-making for refactoring and evolution 
-strategies. We evaluated that approach on 10 non-trivial systems with 6 professional developers within 4 organizations 
-and obtained encouraging feedbacks that we discuss in the paper.</p>
-
-<p>The heat treemap aims to extend, as an overlay, the interactive treemap with dynamic instrumentation traces. The 
-approach replays and draws the sequence of the calls using animations. It also colours the hotspots within the data 
-access code fragments in order to highlight the hotspots. Through an efficient UI, the traces can be further inspected.
-This promising approach brings more concreteness to the decision-making process when it comes to evolution and 
-refactoring. We evaluated our approach on a case study: Overleaf. In a 6-days scenario, we collected more 
-than 109K traces to visualize.</p>
-
-<p>The tool is the materialized artifact resulting of this research.</p>
-
-<p>Maxime will present these papers with his co-authors early September 2025 in Auckland (New-Zeland).</p>
-
-<p>The papers have been co-authored with researchers of the <a href="https://reveal.si.usi.ch/" target="_blank">REVEAL 
-research group</a> at <a href="https://www.usi.ch/en" target="_blank">Università della Svizzera italiana (USI)</a> in 
-Lugano (Switzerland) where Maxime stayed 6 months. This collaboration is supported by the <a href="https://www.sofinaboel.be/" target="_blank">SofinaBoël Fund for Education and Talent</a>. The paper about the 
-heat treemaps is the result of a collaboration with Maxime De Rycke, a master’s student from the University of Namur.</p>
-
-<div style="display: flex; justify-content: space-around;">
-    <img src="/raindrop/images/VISSOFTICSME-1.png" width="50%" />
-</div>
-<div style="display: flex; justify-content: space-around;">
-    <img src="/raindrop/images/VISSOFTICSME-2.png" width="50%" />
-</div>
-<div style="display: flex; justify-content: space-around;">
-    <img src="/raindrop/images/VISSOFTICSME-3.png" width="100%" />
-</div>
-
-  </div>
-  
-  <div class="post">
-    <h2 class="post-title">
-      <a href="https://sites.uclouvain.be/raindrop/2025/05/18/CCGrid2025/">
-        CCGrid 2025
-      </a>
-    </h2>
-
-    <span class="post-date">18 May 2025</span>
-
-    <h3>Yinan presented the paper at CCGrid 2025</h3>
-
-<p>Yinan presented the paper “LASSY: a Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum” at <a href="https://site.uit.no/ccgrid2025/" target="_blank">CCGrid 2025</a> on May 21st 2025 in Tromso, Norway.</p>
-
-<div style="display: flex; justify-content: space-around;">
-    <img src="/raindrop/images/CCGRID-3.jpg" height="350px" />
-    <img src="/raindrop/images/CCGRID-2.jpg" height="350px" />
-</div>
 
   </div>
   

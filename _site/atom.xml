@@ -4,13 +4,62 @@
  <title>Project RAINDROP</title>
  <link href="https://sites.uclouvain.be/raindrop/atom.xml" rel="self"/>
  <link href="https://sites.uclouvain.be/raindrop/"/>
- <updated>2026-01-26T14:54:03+00:00</updated>
+ <updated>2026-07-08T20:03:39+00:00</updated>
  <id>https://sites.uclouvain.be</id>
  <author>
    <name>Yinan CAO</name>
    <email>yinan.cao@uclouvain.be</email>
  </author>
 
+ 
+ <entry>
+   <title>SRDS 2026</title>
+   <link href="https://sites.uclouvain.be/2026/07/03/SRDS2026-accepted/"/>
+   <updated>2026-07-03T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2026/07/03/SRDS2026-accepted</id>
+   <content type="html">&lt;h3&gt;A paper accepted at SRDS 2026&lt;/h3&gt;
+
+&lt;p&gt;The paper “Cerberus: Latency-Aware Scheduling with Graceful Degradation for Constrained Edge Infrastructures” has been accepted by &lt;a href=&quot;https://srds-conference.org/&quot; target=&quot;_blank&quot;&gt;SRDS 2026&lt;/a&gt; as a regular paper.&lt;/p&gt;
+
+&lt;p&gt;We extend the scheduling methodology of Scylla to handle multi-application concurrency under resource scarcity on edge clusters through the development of the &lt;a href=&quot;https://github.com/YinanTsao/Cerberus-demo&quot;&gt;Cerberus&lt;/a&gt; global scheduling model. Recognizing that edge resources are finite and may be insufficient to simultaneously satisfy all application SLOs under peak demand, Cerberus extends latency-aware scheduling with a graceful degradation mechanism that avoids the service disruptions caused by eviction-based strategies. Instead of dropping low-criticality applications, Cerberus introduces the concept of a Service Level Threshold (SLT), which bounds the maximum acceptable performance degradation for each application, and a priority-aware degradation algorithm that progressively relaxes the latency bounds of low-criticality applications in controlled steps until a feasible placement is found, while preserving strict SLO compliance for high-criticality ones. This ensures that all applications remain operational under resource scarcity, with degradation that is predictable, minimal, and proportional to application criticality.&lt;/p&gt;
+
+&lt;p&gt;Yinan will present the paper during the conference on September 23rd 2026 in Roma, Italy.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>IWQoS 2026</title>
+   <link href="https://sites.uclouvain.be/2026/07/02/IWQoS2026/"/>
+   <updated>2026-07-02T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2026/07/02/IWQoS2026</id>
+   <content type="html">&lt;h3&gt;Yinan presented the paper at IWQoS 2026&lt;/h3&gt;
+
+&lt;p&gt;Yinan presented the paper “Scylla: Scheduling Multiple Latency-Sensitive Applications in the Edge-Cloud Continuum” at &lt;a href=&quot;https://iwqos2026.ieee-iwqos.org/&quot; target=&quot;_blank&quot;&gt;IWQoS 2026&lt;/a&gt; on July 2nd 2026 in Istanbul, Turkey.&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+    &lt;img src=&quot;/raindrop/images/iwqos_1.png&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/iwqos_2.jpeg&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/iwqos_3.jpeg&quot; height=&quot;350px&quot; /&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>IWQoS 2026</title>
+   <link href="https://sites.uclouvain.be/2026/04/30/IWQoS2026-accepted-copy/"/>
+   <updated>2026-04-30T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2026/04/30/IWQoS2026-accepted copy</id>
+   <content type="html">&lt;h3&gt;A paper accepted at IWQoS 2026&lt;/h3&gt;
+
+&lt;p&gt;The paper “Scylla: Scheduling Multiple Latency-Sensitive Applications in the Edge-Cloud Continuum” has been accepted by &lt;a href=&quot;https://iwqos2026.ieee-iwqos.org/&quot; target=&quot;_blank&quot;&gt;IWQoS 2026&lt;/a&gt; as a regular paper in the Edge-Cloud Resource Allocation track.&lt;/p&gt;
+
+&lt;p&gt;We extend the scheduling methodology of LASSY to handle multi-application concurrency through the development of the &lt;a href=&quot;https://github.com/YinanTsao/Scylla&quot;&gt;Scylla&lt;/a&gt; global scheduling model. Recognizing that edge nodes are rarely dedicated to a single task, Scylla generalizes the single-application formulation to jointly schedule multiple co-located applications competing for shared resources across the edge-cloud continuum, mitigating the “Noisy Neighbor” effect through a holistic deployment plan that ensures all applications meet their respective SLOs without mutual performance interference. As the joint optimization of multiple applications causes the problem scale and computation time to grow rapidly, we further introduce the Layered Permutation Search (LPS) heuristic, which decomposes the global problem into a sequence of single-application problems and explores application orderings at controllable depth, achieving near-optimal placement plans within practical time limits even for large numbers of applications.&lt;/p&gt;
+
+&lt;p&gt;Yinan will present the paper during the conference on July 2 2026 in Istanbul, Turkey.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>MSR 2026</title>
@@ -156,7 +205,7 @@ heat treemaps is the result of a collaboration with Maxime De Rycke, a master’
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
     &lt;img src=&quot;/raindrop/images/CCGRID-3.jpg&quot; height=&quot;350px&quot; /&gt;
-    &lt;img src=&quot;/raindrop/images/CCGRID-2.jpg&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/CCGRID-4.jpg&quot; height=&quot;350px&quot; /&gt;
 &lt;/div&gt;
 </content>
  </entry>
@@ -225,7 +274,7 @@ heat treemaps is the result of a collaboration with Maxime De Rycke, a master’
 
 &lt;p&gt;In this paper, we propose LASSY, SLO-sufficing scheduling model for the deployment of latency-sensitive monolithic applications on cloud/edge continuum. By introducing queueing theory and transferring the scheduling problem to optimization problem, LASSY accurately predicts the Round-trip time of users’ requests and generates placement plans with users-to-sites mapping for latency-sensitive monolithic applications deployment among the geographically distributed sites with minimum customizable cost.&lt;/p&gt;
 
-&lt;p&gt;Yinan will present the paper in the conference during May 18th-22nd 2025 in Tromso (Norway).&lt;/p&gt;
+&lt;p&gt;Yinan will present the paper in the conference during May 18th-22nd 2025 in Tromso, Norway.&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
     &lt;img src=&quot;/raindrop/images/CCGRID-1.png&quot; width=&quot;85%&quot; /&gt;

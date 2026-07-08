@@ -17,7 +17,7 @@ title: Team
 <br/>
 
 **<img src="{{ site.baseurl }}/images/yinan.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Yinan Cao (UCLouvain)**
-<h4>Focusing on infrastructure management and adaptation in the continuum.</h4>
+<h4>Focusing on infrastructure management and workload scheduling in the edge-cloud continuum.</h4>
 - <a href="https://www.uclouvain.be/en/people/yinan.cao" target="_blank">Homepage</a>
 - <a href="https://scholar.google.com/citations?user=j0ryMx4AAAAJ&hl=en&oi=ao" target="_blank">Publications (Google Scholar)</a>
 <br/>
