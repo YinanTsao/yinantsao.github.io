@@ -89,4 +89,4 @@ The project is also supported by the <a href="https://www.sofinaboel.be/accueil/
   </ul>
 </div>
 
-Check all of our papers <a href="/Papers">here</a>.
+Check all of our papers <a href="{{ site.baseurl }}/Papers">here</a>.

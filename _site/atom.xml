@@ -4,7 +4,7 @@
  <title>Project RAINDROP</title>
  <link href="https://sites.uclouvain.be/raindrop/atom.xml" rel="self"/>
  <link href="https://sites.uclouvain.be/raindrop/"/>
- <updated>2026-07-31T13:41:14+00:00</updated>
+ <updated>2026-07-31T13:56:03+00:00</updated>
  <id>https://sites.uclouvain.be</id>
  <author>
    <name>Yinan CAO</name>
@@ -21,7 +21,7 @@
 
 &lt;p&gt;Our paper “Occamy: Latency-Aware Scheduling with Controlled Degradation for Mixed-Criticality AI at the Edge”, in collaboration with Patient, has been accepted as a full paper at &lt;a href=&quot;https://acm-ieee-sec.org/2026/&quot; target=&quot;_blank&quot;&gt;SEC 2026&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;We extend the graceful-degradation methodology of Cerberus from latency relaxation to model-variant selection through the development of the &lt;a href=&quot;https://github.com/YinanTsao/Occamy&quot;&gt;Occamy&lt;/a&gt; global scheduling model, targeting mixed-criticality AI inference across distributed edge sites. Whereas Cerberus restores feasibility by relaxing the latency bounds of low-criticality applications, Occamy exploits the multiple model variants that AI applications expose, each trading inference accuracy for lower latency and resource consumption. Occamy predicts the P99 end-to-end latency of a candidate deployment and jointly selects a model variant, an instance count, and a user-to-site assignment for each application under strict per-application SLOs and edge capacity limits. Under resource scarcity, a priority-aware degradation algorithm switches low-criticality applications to lighter variants in controlled steps until a feasible placement is found, while preserving the nominal quality of high-criticality ones. This delivers graceful degradation along the accuracy dimension, keeping all applications operational with quality loss that is predictable, minimal.&lt;/p&gt;
+&lt;p&gt;We extend the graceful-degradation methodology of Cerberus from latency relaxation to model-variant selection through the development of the &lt;a href=&quot;https://github.com/YinanTsao/Occamy&quot;&gt;Occamy&lt;/a&gt; global scheduling model, targeting mixed-criticality AI inference across distributed edge sites. Whereas Cerberus restores feasibility by relaxing the latency bounds of low-criticality applications, Occamy exploits the multiple model variants that AI applications expose, each trading inference accuracy for lower latency and resource consumption. Occamy predicts the P99 end-to-end latency of a candidate deployment and jointly selects a model variant, an instance count, and a user-to-site assignment for each application under strict per-application SLOs and edge capacity limits. Under resource scarcity, a priority-aware degradation algorithm switches low-criticality applications to lighter variants in controlled steps until a feasible placement is found, while preserving the nominal quality of high-criticality ones. This delivers graceful degradation along the accuracy dimension, keeping all applications operational with quality loss that is predictable and minimal.&lt;/p&gt;
 
 &lt;p&gt;Yinan will present the paper during the conference on October 13-16 2026 in Santa Clara, CA, United States.&lt;/p&gt;
 
