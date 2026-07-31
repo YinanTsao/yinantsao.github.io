@@ -9,12 +9,12 @@
 
   <title>
     
-      SRDS 2026 &middot; Project RAINDROP
+      SEC 2026 &middot; Project RAINDROP
     
   </title>
 
   
-  <link rel="canonical" href="https://sites.uclouvain.be/raindrop/2026/07/03/SRDS2026-accepted/">
+  <link rel="canonical" href="https://sites.uclouvain.be/raindrop/2026/07/30/SEC2026-accepted/">
   
 
   <link rel="stylesheet" href="https://sites.uclouvain.be/raindrop/public/css/poole.css">
@@ -97,6 +97,10 @@
         
       
     
+      
+        
+      
+    
 
     <!--<a class="sidebar-nav-item" href="https://github.com/">GitHub project</a>-->
   </nav>
@@ -125,14 +129,14 @@
 
       <div class="container content">
         <div class="page">
-  <h1 class="page-title">SRDS 2026</h1>
-  <h3>A paper accepted at SRDS 2026</h3>
+  <h1 class="page-title">SEC 2026</h1>
+  <h3>A paper accepted at SEC 2026</h3>
 
-<p>The paper “Cerberus: Latency-Aware Scheduling with Graceful Degradation for Constrained Edge Infrastructures” has been accepted by <a href="https://srds-conference.org/" target="_blank">SRDS 2026</a> as a regular paper.</p>
+<p>Our paper “Occamy: Latency-Aware Scheduling with Controlled Degradation for Mixed-Criticality AI at the Edge”, in collaboration with Patient, has been accepted as a full paper at <a href="https://acm-ieee-sec.org/2026/" target="_blank">SEC 2026</a>.</p>
 
-<p>We extend the scheduling methodology of Scylla to handle multi-application concurrency under resource scarcity on edge clusters through the development of the <a href="https://github.com/YinanTsao/Cerberus-demo">Cerberus</a> global scheduling model. Recognizing that edge resources are finite and may be insufficient to simultaneously satisfy all application SLOs under peak demand, Cerberus extends latency-aware scheduling with a graceful degradation mechanism that avoids the service disruptions caused by eviction-based strategies. Instead of dropping low-criticality applications, Cerberus introduces the concept of a Service Level Threshold (SLT), which bounds the maximum acceptable performance degradation for each application, and a priority-aware degradation algorithm that progressively relaxes the latency bounds of low-criticality applications in controlled steps until a feasible placement is found, while preserving strict SLO compliance for high-criticality ones. This ensures that all applications remain operational under resource scarcity, with degradation that is predictable, minimal, and proportional to application criticality.</p>
+<p>We extend the graceful-degradation methodology of Cerberus from latency relaxation to model-variant selection through the development of the <a href="https://github.com/YinanTsao/Occamy">Occamy</a> global scheduling model, targeting mixed-criticality AI inference across distributed edge sites. Whereas Cerberus restores feasibility by relaxing the latency bounds of low-criticality applications, Occamy exploits the multiple model variants that AI applications expose, each trading inference accuracy for lower latency and resource consumption. Occamy predicts the P99 end-to-end latency of a candidate deployment and jointly selects a model variant, an instance count, and a user-to-site assignment for each application under strict per-application SLOs and edge capacity limits. Under resource scarcity, a priority-aware degradation algorithm switches low-criticality applications to lighter variants in controlled steps until a feasible placement is found, while preserving the nominal quality of high-criticality ones. This delivers graceful degradation along the accuracy dimension, keeping all applications operational with quality loss that is predictable, minimal.</p>
 
-<p>Yinan will present the paper during the conference on September 22-24 2026 in Roma, Italy.</p>
+<p>Yinan will present the paper during the conference on October 13-16 2026 in Santa Clara, CA, United States.</p>
 
 
 </div>

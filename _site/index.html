@@ -97,6 +97,10 @@
         
       
     
+      
+        
+      
+    
 
     <!--<a class="sidebar-nav-item" href="https://github.com/">GitHub project</a>-->
   </nav>
@@ -139,7 +143,27 @@
   
   <div class="post">
     <h2 class="post-title">
-      <a href="https://sites.uclouvain.be/raindrop/2026/07/03/SRDS2026-accepted/">
+      <a href="https://sites.uclouvain.be/raindrop/2026/07/30/SEC2026-accepted/">
+        SEC 2026
+      </a>
+    </h2>
+
+    <span class="post-date">30 Jul 2026</span>
+
+    <h3>A paper accepted at SEC 2026</h3>
+
+<p>Our paper “Occamy: Latency-Aware Scheduling with Controlled Degradation for Mixed-Criticality AI at the Edge”, in collaboration with Patient, has been accepted as a full paper at <a href="https://acm-ieee-sec.org/2026/" target="_blank">SEC 2026</a>.</p>
+
+<p>We extend the graceful-degradation methodology of Cerberus from latency relaxation to model-variant selection through the development of the <a href="https://github.com/YinanTsao/Occamy">Occamy</a> global scheduling model, targeting mixed-criticality AI inference across distributed edge sites. Whereas Cerberus restores feasibility by relaxing the latency bounds of low-criticality applications, Occamy exploits the multiple model variants that AI applications expose, each trading inference accuracy for lower latency and resource consumption. Occamy predicts the P99 end-to-end latency of a candidate deployment and jointly selects a model variant, an instance count, and a user-to-site assignment for each application under strict per-application SLOs and edge capacity limits. Under resource scarcity, a priority-aware degradation algorithm switches low-criticality applications to lighter variants in controlled steps until a feasible placement is found, while preserving the nominal quality of high-criticality ones. This delivers graceful degradation along the accuracy dimension, keeping all applications operational with quality loss that is predictable, minimal.</p>
+
+<p>Yinan will present the paper during the conference on October 13-16 2026 in Santa Clara, CA, United States.</p>
+
+
+  </div>
+  
+  <div class="post">
+    <h2 class="post-title">
+      <a href="https://sites.uclouvain.be/raindrop/2026/07/03/SRDS2026-accepted-copy/">
         SRDS 2026
       </a>
     </h2>
@@ -148,9 +172,9 @@
 
     <h3>A paper accepted at SRDS 2026</h3>
 
-<p>The paper “Cerberus: Latency-Aware Scheduling with Graceful Degradation for Constrained Edge Infrastructures” has been accepted by <a href="https://srds-conference.org/" target="_blank">SRDS 2026</a> as a regular paper.</p>
+<p>The paper “Cerberus: Latency-Aware Scheduling with Graceful Degradation for Constrained Edge Infrastructures” has been accepted at <a href="https://srds-conference.org/" target="_blank">SRDS 2026</a> as a full paper.</p>
 
-<p>We extend the scheduling methodology of Scylla to handle multi-application concurrency under resource scarcity on edge clusters through the development of the <a href="https://github.com/YinanTsao/Cerberus-demo">Cerberus</a> global scheduling model. Recognizing that edge resources are finite and may be insufficient to simultaneously satisfy all application SLOs under peak demand, Cerberus extends latency-aware scheduling with a graceful degradation mechanism that avoids the service disruptions caused by eviction-based strategies. Instead of dropping low-criticality applications, Cerberus introduces the concept of a Service Level Threshold (SLT), which bounds the maximum acceptable performance degradation for each application, and a priority-aware degradation algorithm that progressively relaxes the latency bounds of low-criticality applications in controlled steps until a feasible placement is found, while preserving strict SLO compliance for high-criticality ones. This ensures that all applications remain operational under resource scarcity, with degradation that is predictable, minimal, and proportional to application criticality.</p>
+<p>We extend the scheduling methodology of Scylla to handle multi-application concurrency under resource scarcity on edge clusters through the development of the <a href="https://github.com/YinanTsao/Cerberus">Cerberus</a> global scheduling model. Recognizing that edge resources are finite and may be insufficient to simultaneously satisfy all application SLOs under peak demand, Cerberus extends latency-aware scheduling with a graceful degradation mechanism that avoids the service disruptions caused by eviction-based strategies. Instead of dropping low-criticality applications, Cerberus introduces the concept of a Service Level Threshold (SLT), which bounds the maximum acceptable performance degradation for each application, and a priority-aware degradation algorithm that progressively relaxes the latency bounds of low-criticality applications in controlled steps until a feasible placement is found, while preserving strict SLO compliance for high-criticality ones. This ensures that all applications remain operational under resource scarcity, with degradation that is predictable, minimal, and proportional to application criticality.</p>
 
 <p>Yinan will present the paper during the conference on September 22-24 2026 in Roma, Italy.</p>
 
@@ -189,7 +213,7 @@
 
     <h3>A paper accepted at IWQoS 2026</h3>
 
-<p>The paper “Scylla: Scheduling Multiple Latency-Sensitive Applications in the Edge-Cloud Continuum” has been accepted by <a href="https://iwqos2026.ieee-iwqos.org/" target="_blank">IWQoS 2026</a> as a regular paper in the Edge-Cloud Resource Allocation track.</p>
+<p>The paper “Scylla: Scheduling Multiple Latency-Sensitive Applications in the Edge-Cloud Continuum” has been accepted at <a href="https://iwqos2026.ieee-iwqos.org/" target="_blank">IWQoS 2026</a> as a regular paper in the Edge-Cloud Resource Allocation track.</p>
 
 <p>We extend the scheduling methodology of LASSY to handle multi-application concurrency through the development of the <a href="https://github.com/YinanTsao/Scylla">Scylla</a> global scheduling model. Recognizing that edge nodes are rarely dedicated to a single task, Scylla generalizes the single-application formulation to jointly schedule multiple co-located applications competing for shared resources across the edge-cloud continuum, mitigating the “Noisy Neighbor” effect through a holistic deployment plan that ensures all applications meet their respective SLOs without mutual performance interference. As the joint optimization of multiple applications causes the problem scale and computation time to grow rapidly, we further introduce the Layered Permutation Search (LPS) heuristic, which decomposes the global problem into a sequence of single-application problems and explores application orderings at controllable depth, achieving near-optimal placement plans within practical time limits even for large numbers of applications.</p>
 
@@ -216,57 +240,6 @@
 </div>
 
 <p>The paper <a href="https://researchportal.unamur.be/fr/publications/poolingh-fast-efficient-and-robust-github-repository-mining/" target="_blank">PoolinGH: Fast, Efficient, and Robust GitHub Repository Mining</a>, approaches <a href="https://www.npmjs.com/package/poolingh" target="_blank">PoolinGH</a>, a lightweight, open-source, easy-to-use library, aimed at supporting researchers.</p>
-
-  </div>
-  
-  <div class="post">
-    <h2 class="post-title">
-      <a href="https://sites.uclouvain.be/raindrop/2026/01/05/MSR2026-accepted/">
-        MSR 2026
-      </a>
-    </h2>
-
-    <span class="post-date">05 Jan 2026</span>
-
-    <h3>A paper accepted at MSR 2026</h3>
-
-<p>The paper “PoolinGH: Fast, Efficient, and Robust GitHub Repository Mining” has been accepted to 
-<a href="https://2026.msrconf.org/track/msr-2026-data-and-tool-showcase-track" target="_blank">MSR 2026</a> in the Data and Tool Showcase track.</p>
-
-<p>In this paper, we present <a href="https://www.npmjs.com/package/poolingh" target="_blank">PoolinGH</a>, a lightweight, open-source, easy-to-use library, aimed at supporting researchers. It is designed to accelerate and ensure efficient and robust mining on the GitHub REST API while taking full advantage of its capabilities. It enables automatic pooling of multiple access tokens and parallelizes queries. It optimizes queues and regulates network and API usage for respecting GitHub’s limits and best practices. Error management and recovery or pruning in case of deadlocks are ensured. Search coverage maximization and progress monitoring are among the most useful features to avoid reinventing the wheel. We also provide solution templates that meet common needs for specific extensions of such library.</p>
-
-<p>Maxime will present this paper with his co-authors mid-April 2026 in Rio de Janeiro (Brazil).</p>
-
-<p>The paper was co-authored with researchers from the <a href="https://www.uzh.ch/en.html" target="_blank">University of Zurich (Switzerland)</a> and from the <a href="https://reveal.si.usi.ch/" target="_blank">REVEAL research group</a> of the <a href="https://www.usi.ch/en" target="_blank">Università della Svizzera italiana (USI)</a> in Lugano (Switzerland). This collaboration is supported by the <a href="https://www.sofinaboel.be/" target="_blank">SofinaBoël Fund for Education and Talent</a>.</p>
-
-<table>
-    <tr>
-        <td>📦</td>
-        <td>npm package</td>
-        <td><a href="https://www.npmjs.com/package/poolingh" target="_blank">https://www.npmjs.com/package/poolingh</a></td>
-    </tr>
-    <tr>
-        <td>👨‍🏫</td>
-        <td>Templates &amp; Examples</td>
-        <td><a href="https://github.com/PoolinGH/poolingh-examples" target="_blank">https://github.com/PoolinGH/poolingh-examples</a></td>
-    </tr>
-    <tr>
-        <td>👨‍💻</td>
-        <td>Source code</td>
-        <td><a href="https://github.com/PoolinGH/poolingh" target="_blank">https://github.com/PoolinGH/poolingh</a></td>
-    </tr>
-        <tr>
-        <td>🗃️</td>
-        <td>Archive</td>
-        <td><a href="https://zenodo.org/records/17574294" target="_blank">https://zenodo.org/records/17574294</a></td>
-    </tr>
-</table>
-
-<div style="display: flex; justify-content: end;">
-    <a href="https://www.npmjs.com/package/poolingh" target="_blank">
-        <img src="/raindrop/images/MSR2026-1.png" width="25%" />
-    </a>
-</div>
 
   </div>
   
