@@ -4,13 +4,45 @@
  <title>Project RAINDROP</title>
  <link href="https://sites.uclouvain.be/raindrop/atom.xml" rel="self"/>
  <link href="https://sites.uclouvain.be/raindrop/"/>
- <updated>2026-07-31T13:56:03+00:00</updated>
+ <updated>2026-09-30T23:32:31+00:00</updated>
  <id>https://sites.uclouvain.be</id>
  <author>
    <name>Yinan CAO</name>
    <email>yinan.cao@uclouvain.be</email>
  </author>
 
+ 
+ <entry>
+   <title>SRDS 2026</title>
+   <link href="https://sites.uclouvain.be/2026/09/24/SRDS2026/"/>
+   <updated>2026-09-24T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2026/09/24/SRDS2026</id>
+   <content type="html">&lt;h3&gt;Yinan presented the paper at SRDS 2026&lt;/h3&gt;
+
+&lt;p&gt;Yinan presented the paper “Cerberus: Latency-Aware Scheduling with Graceful Degradation for Constrained Edge Infrastructures” at &lt;a href=&quot;https://srds-conference.org/&quot; target=&quot;_blank&quot;&gt;SRDS 2026&lt;/a&gt; on September 24th in Rome, Italy.&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+    &lt;img src=&quot;/raindrop/images/srds.jpg&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/rome2.jpeg&quot; height=&quot;350px&quot; /&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>SRDS 2026</title>
+   <link href="https://sites.uclouvain.be/2026/09/23/SRDS2026-best-paper/"/>
+   <updated>2026-09-23T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2026/09/23/SRDS2026-best-paper</id>
+   <content type="html">&lt;h3&gt;Best Paper Award at SRDS 2026&lt;/h3&gt;
+
+&lt;p&gt;The paper “Cerberus: Latency-Aware Scheduling with Graceful Degradation for Constrained Edge Infrastructures” has received the Best Paper Award at &lt;a href=&quot;https://srds-conference.org/&quot; target=&quot;_blank&quot;&gt;SRDS 2026&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+    &lt;img src=&quot;/raindrop/images/bestpaper.jpeg&quot; height=&quot;350px&quot; /&gt;
+&lt;/div&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>SEC 2026</title>
@@ -30,9 +62,9 @@
  
  <entry>
    <title>SRDS 2026</title>
-   <link href="https://sites.uclouvain.be/2026/07/03/SRDS2026-accepted-copy/"/>
+   <link href="https://sites.uclouvain.be/2026/07/03/SRDS2026-accepted-copy-2/"/>
    <updated>2026-07-03T00:00:00+00:00</updated>
-   <id>https://sites.uclouvain.be/raindrop/2026/07/03/SRDS2026-accepted copy</id>
+   <id>https://sites.uclouvain.be/raindrop/2026/07/03/SRDS2026-accepted copy 2</id>
    <content type="html">&lt;h3&gt;A paper accepted at SRDS 2026&lt;/h3&gt;
 
 &lt;p&gt;The paper “Cerberus: Latency-Aware Scheduling with Graceful Degradation for Constrained Edge Infrastructures” has been accepted at &lt;a href=&quot;https://srds-conference.org/&quot; target=&quot;_blank&quot;&gt;SRDS 2026&lt;/a&gt; as a full paper.&lt;/p&gt;
