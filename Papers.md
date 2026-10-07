@@ -3,6 +3,8 @@ layout: page
 title: Papers
 ---
 
+- <a href="https://research.dial.uclouvain.be/entities/publication/5e67af17-4638-4532-80a0-77aa2810fca2" target="_blank">Cao, Y., Rivière, E., &  Sadre, R., (2026, September). Cerberus: Latency-Aware Scheduling with Graceful Degradation for Constrained Edge Infrastructures (SRDS 2026). In Proceedings of the IEEE 45th International Symposium on Reliable Distributed Systems (SRDS), 2026.</a>
+
 - <a href="https://researchportal.unamur.be/fr/publications/visualizing-the-evolution-of-data-access-in-microservices/" target="_blank">André, M., Di Penta, M., & Cleve, A. (2026, September). Visualizing the Evolution of Data Access in Microservices. In Proceedings of the 14th Working Conference on Software Visualization (VISSOFT 2026): Research Track (IEEE).</a>
   
 - <a href="https://research.dial.uclouvain.be/entities/publication/8e45348e-3d71-4017-9ed0-aa55dee147a0" target="_blank">Cao, Y., Rivière, E., &  Sadre, R., (2026, June). Scylla: Scheduling Multiple Latency-Sensitive Applications in the Edge-Cloud Continuum (IWQoS 2026). In Proceedings of the IEEE/ACM 34th International Symposium on Quality of Service (IWQoS), 2026.</a>

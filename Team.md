@@ -25,6 +25,42 @@ title: Team
 <br/>
 <br/>
 
+### Postdoc Researchers
+
+<br/>
+
+**<img src="{{ site.baseurl }}/images/unknown.jpeg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Bochra Boughzala (UCLouvain)**
+<h4>Focusing on TBD.</h4>
+- <a href="https://www.linkedin.com/in/bochraboughzala/" target="_blank">Homepage</a>
+- <a href="https://scholar.google.com/citations?user=2016lT4AAAAJ&hl=en" target="_blank">Publications (Google Scholar)</a>
+<br/>
+<br/>
+<br/>
+<br/>
+
+**<img src="{{ site.baseurl }}/images/unknown.jpeg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Xiaokun Xu (UCLouvain)**
+<h4>Focusing on TBD.</h4>
+- <a href="https://www.linkedin.com/in/xiaokun-xu-00216914b/" target="_blank">Homepage</a>
+- <a href="https://scholar.google.com/citations?user=iK7M3F4AAAAJ&hl=en" target="_blank">Publications (Google Scholar)</a>
+<br/>
+<br/>
+<br/>
+<br/>
+
+### Visiting Researcher
+<br/>
+
+**<img src="{{ site.baseurl }}/images/cherif_simohammed.jpeg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Cherif Si Mohamed (IMT Atlantique)**
+<h4>Focus on data replication and scheduling in geo-distributed environments.</h4>
+- <a href="https://www.linkedin.com/in/cherif-si-mohammed-67188b177/" target="_blank">Homepage</a>
+- <a href="https://scholar.google.com/citations?user=w7fn2PkAAAAJ&hl=en&oi=ao" target="_blank">Publications (Google Scholar)</a>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+
 ### Professors
 <br/>
 
