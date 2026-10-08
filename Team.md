@@ -29,8 +29,8 @@ title: Team
 
 <br/>
 
-**<img src="{{ site.baseurl }}/images/unknown.jpeg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Bochra Boughzala (UCLouvain)**
-<h4>Focusing on TBD.</h4>
+**<img src="{{ site.baseurl }}/images/Bochra.jpeg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Bochra Boughzala (UCLouvain)**
+<h4>Focusing on adaptation of microservice placement during application deployment in the edge-cloud continuum.</h4>
 - <a href="https://www.linkedin.com/in/bochraboughzala/" target="_blank">Homepage</a>
 - <a href="https://scholar.google.com/citations?user=2016lT4AAAAJ&hl=en" target="_blank">Publications (Google Scholar)</a>
 <br/>
@@ -38,8 +38,8 @@ title: Team
 <br/>
 <br/>
 
-**<img src="{{ site.baseurl }}/images/unknown.jpeg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Xiaokun Xu (UCLouvain)**
-<h4>Focusing on TBD.</h4>
+**<img src="{{ site.baseurl }}/images/xiaokun.png" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Xiaokun Xu (UCLouvain)**
+<h4>Focusing on performance optimization, resource management, and workload scheduling in the edge-cloud continuum.</h4>
 - <a href="https://www.linkedin.com/in/xiaokun-xu-00216914b/" target="_blank">Homepage</a>
 - <a href="https://scholar.google.com/citations?user=iK7M3F4AAAAJ&hl=en" target="_blank">Publications (Google Scholar)</a>
 <br/>
@@ -51,7 +51,7 @@ title: Team
 <br/>
 
 **<img src="{{ site.baseurl }}/images/cherif_simohammed.jpeg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Cherif Si Mohamed (IMT Atlantique)**
-<h4>Focus on data replication and scheduling in geo-distributed environments.</h4>
+<h4>Focusing on data replication and scheduling in geo-distributed environments.</h4>
 - <a href="https://www.linkedin.com/in/cherif-si-mohammed-67188b177/" target="_blank">Homepage</a>
 - <a href="https://scholar.google.com/citations?user=w7fn2PkAAAAJ&hl=en&oi=ao" target="_blank">Publications (Google Scholar)</a>
 <br/>
@@ -95,7 +95,7 @@ title: Team
 <br/>
 
 **<img src="{{ site.baseurl }}/images/patient.jpg" height="15%" width="15%" style="float: left; margin: 0px 50px;">Dr. Patient Ntumba Wa Ntumba (CNAM)**
-<h4>Focus on  scheduling AI application across edge resources, optimizing SLOs and applying priority-aware degradation on AI application.</h4>
+<h4>Focusing on  scheduling AI application across edge resources, optimizing SLOs and applying priority-aware degradation on AI application.</h4>
 <h4>Visiting Researcher from CNAM, France (Nov 2025 - Jan 2026)</h4>
 - <a href="https://cv.hal.science/pntumbawantumba?langChosen=fr" target="_blank">Homepage</a>
 - <a href="https://scholar.google.com/citations?user=gRrqPt4AAAAJ&hl=en&oi=ao" target="_blank">Publications (Google Scholar)</a>
