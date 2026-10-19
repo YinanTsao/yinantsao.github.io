@@ -3,6 +3,8 @@ layout: page
 title: Papers
 ---
 
+- <a href="https://research.dial.uclouvain.be/entities/publication/cd942ebe-0211-4060-94e3-e84d01873207" target="_blank">Cao, Y., Ntumba P., Rivière, E., Sadre, R., & Secci S., (2026, October). Occamy: Latency-Aware Scheduling with Controlled Degradation for Mixed-Criticality AI at the Edge (SEC 2026). In Proceedings of the ACM/IEEE 11th Symposium on Edge Computing (SEC), 2026.</a>
+
 - <a href="https://research.dial.uclouvain.be/entities/publication/5e67af17-4638-4532-80a0-77aa2810fca2" target="_blank">Cao, Y., Rivière, E., &  Sadre, R., (2026, September). Cerberus: Latency-Aware Scheduling with Graceful Degradation for Constrained Edge Infrastructures (SRDS 2026). In Proceedings of the IEEE 45th International Symposium on Reliable Distributed Systems (SRDS), 2026.</a>
 
 - <a href="https://researchportal.unamur.be/fr/publications/visualizing-the-evolution-of-data-access-in-microservices/" target="_blank">André, M., Di Penta, M., & Cleve, A. (2026, September). Visualizing the Evolution of Data Access in Microservices. In Proceedings of the 14th Working Conference on Software Visualization (VISSOFT 2026): Research Track (IEEE).</a>

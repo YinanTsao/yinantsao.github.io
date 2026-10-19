@@ -78,7 +78,10 @@ The project is also supported by the <a href="https://www.sofinaboel.be/accueil/
 <div style="text-align: justify;">
   <ul>
     <li>
-      <a href="https://ieeexplore.ieee.org/abstract/document/11044813" target="_blank">LASSY: a Latency-Aware SLOs-Sufficing Scheduling System for the Cloud/Edge Continuum (CCGrid 2025).</a>
+      <a href="https://research.dial.uclouvain.be/entities/publication/5e67af17-4638-4532-80a0-77aa2810fca2"  target="_blank">Cerberus: Latency-Aware Scheduling with Graceful Degradation for Constrained Edge Infrastructures (SRDS 2026)</a>
+    </li>
+    <li>
+      <a href="https://research.dial.uclouvain.be/entities/publication/8e45348e-3d71-4017-9ed0-aa55dee147a0"  target="_blank">Scylla: Scheduling Multiple Latency-Sensitive Applications in the Edge-Cloud Continuum (IWQoS 2026)</a>
     </li>
     <li>
       <a href="https://researchportal.unamur.be/fr/publications/data-access-centered-understanding-of-microservices-architectures" target="_blank">Data Access-centered Understanding of Microservices Architectures (ICSA 2025)</a>

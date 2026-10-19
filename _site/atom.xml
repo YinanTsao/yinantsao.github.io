@@ -4,13 +4,30 @@
  <title>Project RAINDROP</title>
  <link href="https://sites.uclouvain.be/raindrop/atom.xml" rel="self"/>
  <link href="https://sites.uclouvain.be/raindrop/"/>
- <updated>2026-10-08T14:46:46+00:00</updated>
+ <updated>2026-10-19T09:33:40+00:00</updated>
  <id>https://sites.uclouvain.be</id>
  <author>
    <name>Yinan CAO</name>
    <email>yinan.cao@uclouvain.be</email>
  </author>
 
+ 
+ <entry>
+   <title>SEC 2026</title>
+   <link href="https://sites.uclouvain.be/2026/10/14/SEC2026/"/>
+   <updated>2026-10-14T00:00:00+00:00</updated>
+   <id>https://sites.uclouvain.be/raindrop/2026/10/14/SEC2026</id>
+   <content type="html">&lt;h3&gt;Yinan presented the paper at SEC 2026&lt;/h3&gt;
+
+&lt;p&gt;Yinan presented the paper “Occamy: Latency-Aware Scheduling with Controlled Degradation for Mixed-Criticality AI at the Edge” at &lt;a href=&quot;https://acm-ieee-sec.org/2026/&quot; target=&quot;_blank&quot;&gt;SEC 2026&lt;/a&gt; on October 13 Santa Clara, CA, USA.&lt;/p&gt;
+
+&lt;div style=&quot;display: flex; justify-content: space-around;&quot;&gt;
+    &lt;img src=&quot;/raindrop/images/SEC-1.jpg&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/SEC-2.jpeg&quot; height=&quot;350px&quot; /&gt;
+    &lt;img src=&quot;/raindrop/images/SEC-3.jpeg&quot; height=&quot;350px&quot; /&gt;
+&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Welcoming new postdoc researchers</title>
